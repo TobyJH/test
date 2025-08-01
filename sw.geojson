@@ -1,0 +1,1494 @@
+          L.marker([52.05, 1.80]).addTo(map)
+    .bindPopup('HMS Dundalk: A Hunt-class minesweeper that struck a mine and foundered under tow off Harwich. Sunk on 16 October 1940.')
+
+
+L.marker([51.83, 1.50]).addTo(map)
+    .bindPopup('Terukuni Maru: A Japanese ocean liner that struck a German mine off Harwich. Sunk on 19 November 1939.')
+
+
+L.marker([52.88, 1.72]).addTo(map)
+    .bindPopup('HMT Agate: A trawler that ran aground on Haisborough Sands. Sunk on 6 August 1941.')
+
+
+L.marker([52.90, 1.72]).addTo(map)
+    .bindPopup('Alf: A Norwegian barque that ran aground on Haisborough Sands. Sunk on 23 November 1909.')
+
+
+L.marker([53.03, 1.53]).addTo(map)
+    .bindPopup('Cantabria: A Spanish cargo ship sunk by the Spanish Nationalist auxiliary cruiser Nadir northeast of Cromer during the Spanish Civil War. Sunk on 2 November 1938.')
+
+
+L.marker([52.82, 1.80]).addTo(map)
+    .bindPopup('HMT Force: A naval trawler sunk by German aircraft off Winterton Ness. Sunk on 27 June 1941.')
+
+
+L.marker([52.90, 1.72]).addTo(map)
+    .bindPopup('Gallois: A merchant vessel that ran aground on Haisborough Sands. Sunk on 6 August 1941.')
+
+
+L.marker([52.88, 1.77]).addTo(map)
+    .bindPopup('Georgia: An oil tanker that ran aground on Haisborough Sands. Sunk on 20 November 1927.')
+
+
+L.marker([52.62, 1.78]).addTo(map)
+    .bindPopup('Hopelyn: A merchant vessel that stranded on the Scroby Sands. Sunk on 17 October 1922.')
+
+
+L.marker([52.85, 1.75]).addTo(map)
+    .bindPopup('Meriones: A merchant vessel stranded on the wreck of SS Monte Nevoso at Haisborough Sands, then bombed by German aircraft. Sunk on 22 January 1941.')
+
+
+L.marker([52.85, 1.77]).addTo(map)
+    .bindPopup('Monte Nevoso: A merchant vessel that ran aground on Haisborough Sands. Sunk on 14 October 1932.')
+
+
+L.marker([53.18, 1.93]).addTo(map)
+    .bindPopup('Mount Ida: A merchant vessel that ran aground on Ower Bank. Sunk on 9 October 1939.')
+
+
+L.marker([53.15, 1.10]).addTo(map)
+    .bindPopup('HMS Umpire: A U-class submarine that collided with Peter Hendriks off Blakeney. Sunk on 19 July 1941.')
+
+
+L.marker([52.50, 2.07]).addTo(map)
+    .bindPopup('HMS Exmoor: A Hunt-class destroyer attacked by E-boats and capsized off Lowestoft. Sunk on 25 February 1941.')
+
+
+L.marker([52.33, 1.95]).addTo(map)
+    .bindPopup('Gasfire: A steam collier sunk by a mine east of Southwold. Sunk on 21 June 1941.')
+
+
+L.marker([52.14, 1.75]).addTo(map)
+    .bindPopup('Golconda: A passenger ship that struck a mine and sank 5 nautical miles southeast of Aldeburgh. Sunk on 3 June 1916.')
+
+
+L.marker([52.18, 1.72]).addTo(map)
+    .bindPopup('Magdapur: A cargo ship that struck a mine off Thorpeness. Sunk on 10 September 1939.')
+
+
+L.marker([52.15, 1.72]).addTo(map)
+    .bindPopup('Phryné: A cargo ship that was sunk by a mine off Aldeburgh. Sunk on 24 September 1939.')
+
+
+L.marker([52.43, 2.03]).addTo(map)
+    .bindPopup('U-13: A Type IIB U-boat sunk by HMS Weston southeast of Lowestoft. Sunk on 31 May 1940.')
+
+L.marker([54.658056, -1.180278]).addTo(map)
+    .bindPopup('Seaton Carew Wreck: A protected wreck lying in the intertidal zone at Seaton Carew.')
+
+
+L.marker([55.646111, -1.604167]).addTo(map)
+    .bindPopup('Abessinia: A German steamer wrecked on the Farne Islands. Sunk on 3 September 1921.')
+
+
+L.marker([55.620900, -1.485722]).addTo(map)
+    .bindPopup('HMS Ascot: A Racecourse-class minesweeper torpedoed by UB-67 off the Farne Islands. Sunk on 10 November 1918.')
+
+
+L.marker([55.333333, -1.300000]).addTo(map)
+    .bindPopup('Don: A cargo ship torpedoed by U-9 east of Coquet Island. Sunk on 8 May 1915.')
+
+
+L.marker([55.639389, -1.619111]).addTo(map)
+    .bindPopup('Forfarshire: A paddlesteamer that foundered on the Farne Islands. Sunk on 7 September 1838.')
+
+
+L.marker([55.452000, -1.589000]).addTo(map)
+    .bindPopup('HMS G11: A G-class submarine that ran aground near Howick. Sunk on 22 November 1918.')
+
+
+L.marker([55.241000, -1.374000]).addTo(map)
+    .bindPopup('UB-115: A Type UB III U-boat sunk by British forces off Newton-by-the-Sea. Sunk on 29 September 1918.')
+
+
+L.marker([55.216667, -1.316667]).addTo(map)
+    .bindPopup('HMS Unity: A U-class submarine that collided with Atle Jarl off Blyth. Sunk on 29 April 1940.')
+
+
+L.marker([54.917, -1.300833]).addTo(map)
+    .bindPopup('Hebble: A cargo ship sunk by a mine east of Roker. Sunk on 6 May 1917.')
+
+
+L.marker([55.000833, -1.395556]).addTo(map)
+    .bindPopup('Oslofjord: An ocean liner that hit a mine off South Shields. Sunk on 1 December 1940.')
+
+
+L.marker([53.873182, -3.052444]).addTo(map)
+    .bindPopup('Riverdance: A RO-RO ferry that ran aground on Blackpool beach and was finally scrapped in place after refloating attempts failed. Sunk on 31 January 2008.')
+
+
+L.marker([53.5470396, -3.1206322]).addTo(map)
+    .bindPopup('Ionic Star: A Blue Star Line cargo ship crashed on the mad wharf sandbank on a journey from Rio to Liverpool. Sunk in 1939.')
+
+
+L.marker([50.846899, 0.524281]).addTo(map)
+    .bindPopup('Amsterdam: A Dutch East India Company ship that ran aground near Hastings. The wreck site is protected. Sunk on 26 January 1749.')
+
+
+L.marker([50.655, 0.291]).addTo(map)
+    .bindPopup('HMS Ariadne: A Diadem-class cruiser torpedoed off Beachy Head by German submarine UC-65. Sunk on 26 July 1917.')
+
+
+L.marker([50.729, 0.248]).addTo(map)
+    .bindPopup('HMS Holland 5: A Holland-class submarine that foundered off Beachy Head while under tow to be scrapped. Sunk on 8 August 1912.')
+
+
+L.marker([50.387583, -0.478222]).addTo(map)
+    .bindPopup('RMS Moldavia: An armed merchantman torpedoed off Beachy Head by UB-57. Sunk on 23 May 1918.')
+
+
+L.marker([50.719, 0.240]).addTo(map)
+    .bindPopup('Sitakund: A Norwegian motor tanker that exploded off the coast of Eastbourne. Sunk on 20 October 1968.')
+
+
+L.marker([50.70, -0.25]).addTo(map)
+    .bindPopup('U-40: A German submarine sunk by a mine off Eastbourne. Sunk on 13 October 1939.')
+
+
+L.marker([50.35, -0.02]).addTo(map)
+    .bindPopup('U-413: A German submarine sunk by a mine 15 nautical miles south of Brighton. Sunk on 20 August 1944.')
+
+
+L.marker([50.517, -0.450]).addTo(map)
+    .bindPopup('UC-65: A German minelaying submarine torpedoed by HMS C15 off Eastbourne. Sunk on 3 November 1917.')
+
+
+L.marker([50.7167, -0.6167]).addTo(map)
+    .bindPopup('Wittering: A British cargo ship sunk after a collision 11.5 nautical miles off Beachy Head. Sunk on 25 February 1976.')
+
+L.marker([50.891665, -1.288480]).addTo(map)
+    .bindPopup('Grace Dieu: Henry V\'s flagship, struck by lightning in the River Hamble. Now a protected wrecksite. Wreck found in 1859. Sunk in 1439.')
+
+
+L.marker([50.742778, -1.039444]).addTo(map)
+    .bindPopup('HMS Invincible: A ship of the line that ran aground in the East Solent. Sunk in February 1758.')
+
+
+L.marker([50.799722, -1.106667]).addTo(map)
+    .bindPopup('Mary Rose: A Tudor warship sunk in Portsmouth Harbour, possibly during an engagement with the French fleet. Now a protected wrecksite. Sunk on 19 July 1545.')
+
+
+L.marker([50.406944, -1.433056]).addTo(map)
+    .bindPopup('HMS Acheron: An A-class destroyer sunk by a mine off St. Catherine\'s Point. Sunk on 17 December 1940.')
+
+
+L.marker([50.300000, -0.850000]).addTo(map)
+    .bindPopup('HMCS Alberni: A Flower-class corvette sunk by U-480 off St. Catherine\'s Point. Sunk on 21 August 1944.')
+
+
+L.marker([50.466667, -1.750000]).addTo(map)
+    .bindPopup('Albert C. Field: A Canadian ship sunk by a torpedo from a German aircraft off St. Catherine\'s Point. Sunk on 18 June 1944.')
+
+
+L.marker([50.600000, -1.040000]).addTo(map)
+    .bindPopup('HMS Boxer: An Ardent-class destroyer that collided with SS St Patrick off Culver Down. Sunk on 8 February 1918.')
+
+
+L.marker([50.609444, -1.636111]).addTo(map)
+    .bindPopup('Irex: A sailing ship wrecked at Scratchell\'s Bay, near The Needles. Sunk on 25 January 1890.')
+
+
+L.marker([50.431111, -1.704444]).addTo(map)
+    .bindPopup('Leander: A German coastal trading vessel captured by the Royal Navy, and bombed by German aircraft off St. Catherine\'s Point. Sunk on 8 August 1940.')
+
+
+L.marker([50.150000, -0.683333]).addTo(map)
+    .bindPopup('HMS Loyalty: An Algerine-class minesweeper sunk by U-480. Sunk on 22 August 1944.')
+
+
+L.marker([50.466667, -1.550000]).addTo(map)
+    .bindPopup('Mendi: A troopship rammed by Darro, with the loss of 646 lives. Sunk on 21 February 1917.')
+
+
+L.marker([50.287778, -1.550000]).addTo(map)
+    .bindPopup('U-1195: A German submarine sunk by HMS Watchman. Sunk on 7 April 1945.')
+
+
+L.marker([50.367778, -1.736111]).addTo(map)
+    .bindPopup('U-480: A German submarine sunk by a mine. Sunk on February 1945.')
+
+
+L.marker([50.556111, -1.740833]).addTo(map)
+    .bindPopup('UB-81: A German submarine that struck a mine and then collided with a patrol boat. Sunk on 2 December 1917.')
+
+
+L.marker([52.183333, 2.600000]).addTo(map)
+    .bindPopup('HMS Amphion: An Active-class scout cruiser sunk by a mine laid by SS Königin Luise. Sunk on 6 August 1914.')
+
+
+L.marker([51.018056, 1.287500]).addTo(map)
+    .bindPopup('HMS Brazen: A B-class destroyer sunk by German dive bombers off Folkestone. Sunk on 20 July 1940.')
+
+
+L.marker([51.416667, 0.650000]).addTo(map)
+    .bindPopup('HMS Codrington: An A-class destroyer bombed whilst in dock at Dover. Sunk on 27 July 1940.')
+
+
+L.marker([51.666667, 1.616667]).addTo(map)
+    .bindPopup('HMS Erin\'s Isle: A paddle steamer that was sunk by a mine north of Thanet. Sunk on 7 November 1919.')
+
+
+L.marker([51.035000, 1.250000]).addTo(map)
+    .bindPopup('Preußen: A five-masted windjammer that was rammed by SS Brighton, and subsequently driven onto rocks off the coast of Dover. Sunk on 6 November 1910.')
+
+
+L.marker([50.900000, 1.316667]).addTo(map)
+    .bindPopup('The Queen: A steamship torpedoed by German destroyer S60 off the Varne Bank. Sunk on 26 October 1916.')
+
+
+L.marker([51.051111, 1.258056]).addTo(map)
+    .bindPopup('Unity: A cargo ship that was torpedoed by UB-57 about 9 nautical miles southeast of Folkestone. Sunk on 2 May 1918.')
+
+
+L.marker([51.1667, 1.5000]).addTo(map)
+    .bindPopup('UB-33: A German submarine that struck a mine off the Varne Bank. Sunk on 11 April 1918.')
+
+
+L.marker([51.0000, 1.3333]).addTo(map)
+    .bindPopup('UB-55: A Type UB III U-boat that was sunk by a mine. Sunk on 22 April 1918.')
+
+
+L.marker([51.0000, 1.3500]).addTo(map)
+    .bindPopup('UB-56: A Type UB III U-boat that was sunk by a mine. Sunk on 19 December 1917.')
+
+
+L.marker([50.9667, 1.2333]).addTo(map)
+    .bindPopup('UB-58: A Type UB III U-boat that was sunk by a mine. Sunk on 10 March 1918.')
+
+
+L.marker([50.9667, 1.3833]).addTo(map)
+    .bindPopup('UC-50: A German minelaying submarine sunk by HMS Zubian off Dungeness. Sunk on 4 February 1918.')
+
+
+L.marker([50.9667, 1.3833]).addTo(map)
+    .bindPopup('UC-64: A German minelaying submarine sunk by a mine off the Varne Bank. Sunk on 20 June 1918.')
+
+
+L.marker([51.3556, 1.4481]).addTo(map)
+    .bindPopup('HMS Venetia: A V-class destroyer that was sunk by a mine 12 nautical miles northeast of Margate. Sunk on 19 October 1940.')
+
+L.marker([51.245833, 1.501389]).addTo(map)
+    .bindPopup('Mahratta (1892): A steamship that ran aground and broke in two. Sunk on 9 April 1909.')
+
+
+L.marker([51.245833, 1.501389]).addTo(map)
+    .bindPopup('Mahratta (1917): A steamship that ran aground and broke in two. Sunk on 9 October 1939.')
+
+
+L.marker([51.245833, 1.501389]).addTo(map)
+    .bindPopup('Mary White: A brig that became stranded in rough weather. Sunk on 6 March 1851.')
+
+
+L.marker([51.338056, 1.500278]).addTo(map)
+    .bindPopup('HMS Northumberland: A third-rate ship of the line wrecked in the Great Storm of 1703, with 220 deaths. Sunk on 27 November 1703.')
+
+
+L.marker([51.261667, 1.500833]).addTo(map)
+    .bindPopup('HMS Restoration: A third-rate ship of the line wrecked in the Great Storm of 1703, with 387 deaths. Sunk on 27 November 1703.')
+
+
+L.marker([51.274167, 1.575556]).addTo(map)
+    .bindPopup('Rooswijk: An East Indiaman wrecked in a heavy storm with the loss of all hands. The wreck was discovered in 2004. Sunk on 19 December 1739.')
+
+
+L.marker([51.273500, 1.507800]).addTo(map)
+    .bindPopup('HMS Stirling Castle: A third-rate ship of the line wrecked in the Great Storm of 1703. Sunk on 27 November 1703.')
+
+
+L.marker([51.150000, 1.466667]).addTo(map)
+    .bindPopup('U-16: A German submarine that ran aground while under attack from HMS Puffin and HMS Cayton Wyke. Sunk on 25 October 1939.')
+
+
+L.marker([51.116667, 1.650000]).addTo(map)
+    .bindPopup('UC-46: A German minelaying submarine sunk by HMS Liberty. Sunk on 8 February 1917.')
+
+
+L.marker([51.383333, 2.000000]).addTo(map)
+    .bindPopup('UC-63: A German minelaying submarine torpedoed by HMS E52. Sunk on 1 November 1917.')
+
+
+L.marker([51.507778, 1.020833]).addTo(map)
+    .bindPopup('HMT Amethyst: A naval trawler sunk in the Thames Estuary. Sunk on 24 November 1940.')
+
+
+L.marker([51.510833, -0.103056]).addTo(map)
+    .bindPopup('The Blackfriar I: A small sailing ship discovered in Blackfriars along the banks of the Thames. Sunk in the 2nd century (probable).')
+
+
+L.marker([51.496667, -0.739722]).addTo(map)
+    .bindPopup('HMS London: A second-rate ship of the line that accidentally exploded in the Thames Estuary, killing 300 crewmen. Sunk on 7 March 1665.')
+
+
+L.marker([51.510833, -0.090278]).addTo(map)
+    .bindPopup('Princess Alice: A paddle steamer that collided with Bywell Castle near North Woolwich, with over 650 deaths. Sunk on 3 September 1873.')
+
+
+L.marker([51.466111, 0.786111]).addTo(map)
+    .bindPopup('Richard Montgomery: A Liberty ship that ran aground off the Nore in the Thames Estuary with over a thousand tons of explosives on board. A protected wreck site, designated as dangerous. Sunk on 20 August 1944.')
+
+
+L.marker([50.719444, -0.240000]).addTo(map)
+    .bindPopup('HMS Ariadne: A Diadem-class cruiser torpedoed off Beachy Head by UC-65. Sunk on 26 July 1917.')
+
+
+L.marker([50.729167, -0.248056]).addTo(map)
+    .bindPopup('HMS Holland 5: A Holland-class submarine that foundered off Beachy Head while under tow to be scrapped. Sunk on 8 August 1912.')
+
+
+L.marker([50.387500, -0.264444]).addTo(map)
+    .bindPopup('RMS Moldavia: An armed merchantman torpedoed off Beachy Head by UB-57. Sunk on 23 May 1918.')
+
+
+L.marker([50.730833, -0.240000]).addTo(map)
+    .bindPopup('Sitakund: A Norwegian motor tanker that exploded off the coast of Eastbourne. Sunk on 20 October 1968.')
+
+
+L.marker([50.719444, -0.240000]).addTo(map)
+    .bindPopup('Storaa: A British coaster sunk by a German torpedo near Hastings. Sunk on 3 November 1943.')
+
+
+L.marker([50.700000, -0.250000]).addTo(map)
+    .bindPopup('U-40: A German submarine sunk by a mine off Eastbourne. Sunk on 13 October 1939.')
+
+
+L.marker([50.350000, -0.016667]).addTo(map)
+    .bindPopup('U-413: A German submarine sunk by a mine 15 nautical miles south of Brighton. Sunk on 20 August 1944.')
+
+
+L.marker([50.516667, -0.450000]).addTo(map)
+    .bindPopup('UC-65: A German minelaying submarine torpedoed by HMS C15 off Eastbourne. Sunk on 3 November 1917.')
+
+
+L.marker([50.716111, -0.616944]).addTo(map)
+    .bindPopup('Wittering: A British cargo ship sunk after a collision, 11.5 nautical miles off Beachy Head. Attended by Hastings Lifeboat. Sunk on 25 February 1976.')
+
+
+L.marker([50.7425, -0.9213]).addTo(map)
+    .bindPopup('HMS A1 (1911): An A-class submarine sunk off Bracklesham Bay.')
+
+
+L.marker([50.5086, -2.1381]).addTo(map)
+    .bindPopup('Aeolian Sky (4 November 1979): A Greek freighter that collided with another ship near the Channel Islands, and sank off St Alban\'s Head.')
+
+
+L.marker([50.4917, -2.9650]).addTo(map)
+    .bindPopup('HMS Empress of India (4 November 1914): A battleship sunk as a target in Lyme Bay.')
+
+
+L.marker([50.6219, -2.4481]).addTo(map)
+    .bindPopup('Alexander (27 March 1815): An East Indiaman driven ashore in a storm at Wyke Regis.')
+
+
+L.marker([50.5725, -2.4310]).addTo(map)
+    .bindPopup('SS Athen (1911): A German merchant ship that collided with SS Thor off Portland Bill.')
+
+
+L.marker([50.5664, -2.4856]).addTo(map)
+    .bindPopup('SS Binnendijk (8 October 1939): A Dutch cargo ship that struck a mine and sank off Portland Bill.')
+
+
+L.marker([50.5711, -2.4483]).addTo(map)
+    .bindPopup('HMS Bittern (4 April 1918): An Avon-class destroyer that collided with SS Kenilworth off the Isle of Portland.')
+
+
+L.marker([50.4704, -2.4639]).addTo(map)
+    .bindPopup('HMS Boadicea (13 June 1944): A B-class destroyer sunk by aerial torpedoes dropped by Junkers Ju 88 dive bombers off the Isle of Portland.')
+
+
+L.marker([50.5736, -2.4336]).addTo(map)
+    .bindPopup('HMS Delight (29 July 1940): A D-class destroyer sunk by German dive bombers off the Isle of Portland.')
+
+
+L.marker([50.6112, -2.4602]).addTo(map)
+    .bindPopup('Earl of Abergavenny (5 February 1805): An East Indiaman sunk in Weymouth Bay.')
+
+
+L.marker([50.5770, -2.4194]).addTo(map)
+    .bindPopup('HMS Foylebank (5 July 1940): A merchant ship converted into an anti-aircraft ship, sunk by German Stuka off the Isle of Portland.')
+
+
+L.marker([50.5692, -2.4211]).addTo(map)
+    .bindPopup('HMS Hood (4 November 1914): A pre-dreadnought battleship sunk as a blockship in Portland Harbour.')
+
+
+L.marker([50.5633, -2.5933]).addTo(map)
+    .bindPopup('HMS Invincible (17 September 1914): An Audacious-class battleship that sank in a storm off Portland Bill.')
+
+
+L.marker([50.5908, -1.9495]).addTo(map)
+    .bindPopup('SS Kyarra (5 May 1918): A luxury liner sunk by German submarine UB-57 near Swanage.')
+
+
+L.marker([50.3750, -2.6297]).addTo(map)
+    .bindPopup('HMS L24 (10 January 1924): An L-class submarine that collided with HMS Resolution off Portland Bill.')
+
+
+L.marker([50.4542, -2.7269]).addTo(map)
+    .bindPopup('USS LST-507 (28 April 1944): A tank landing ship sunk by German E-boats off the Isle of Portland.')
+
+
+L.marker([50.5704, -3.0806]).addTo(map)
+    .bindPopup('SS Radaas (21 September 1917): A Danish steamship sunk by UB-40 off Portland Bill.')
+
+
+L.marker([50.4261, -2.0483]).addTo(map)
+    .bindPopup('HMS Safari (8 January 1946): An S-class submarine that sunk while under tow to be scrapped.')
+
+
+L.marker([50.6239, -2.4283]).addTo(map)
+    .bindPopup('HMS Sidon (14 June 1957): An S-class submarine that sunk in Portland Harbour on 16 June 1955 following an explosion. It was later raised and sunk as a target off Weymouth.')
+
+
+L.marker([50.7186, -2.0825]).addTo(map)
+    .bindPopup('Swash Channel Wreck (Unknown): The remains of a 17th-century armed merchantman wrecked outside Poole Harbour.')
+
+
+L.marker([50.4250, -2.4333]).addTo(map)
+    .bindPopup('U-322 (19 December 1944): A Type VIIC U-boat that was sunk by HMCS Calgary south of Weymouth.')
+
+
+L.marker([50.6100, -2.4216]).addTo(map)
+    .bindPopup('HMS Warrior (11 July 1940): A steam yacht bombed off the Isle of Portland.')
+
+
+L.marker([49.9545, -6.2577]).addTo(map)
+    .bindPopup('HMS Association (22 October 1707): A second rate ship of the line wrecked in the Scilly naval disaster of 1707, with about 800 dead.')
+
+
+L.marker([49.8406, -6.3310]).addTo(map)
+    .bindPopup('MV Cita (26 March 1997): A merchant vessel that ran aground off St Mary\'s.')
+
+
+L.marker([49.8806, -6.2871]).addTo(map)
+    .bindPopup('HMS Colossus (10 December 1798): A protected wreck site, broke anchor and ran aground off Samson.')
+
+
+L.marker([49.9350, -6.3078]).addTo(map)
+    .bindPopup('SS Dundee (2 September 1917): A steam passenger and cargo ship sunk by German submarine UC-49.')
+
+
+L.marker([49.8594, -6.3089]).addTo(map)
+    .bindPopup('HMS Eagle (22 October 1707): A third rate ship of the line wrecked in the Scilly naval disaster of 1707.')
+
+
+L.marker([49.9561, -6.2577]).addTo(map)
+    .bindPopup('PS Earl of Arran (16 July 1872): A passenger ship that was wrecked off the Eastern Isles.')
+
+
+L.marker([49.8889, -6.3433]).addTo(map)
+    .bindPopup('HMS Firebrand (22 October 1707): A fireship wrecked in the Scilly naval disaster of 1707.')
+
+
+L.marker([49.9033, -6.2528]).addTo(map)
+    .bindPopup('Hollandia (13 June 1743): An East Indiaman wrecked off the island of Annet with 276 deaths.')
+
+
+L.marker([49.3833, -6.2167]).addTo(map)
+    .bindPopup('USS Jacob Jones (6 December 1917): A Tucker-class destroyer torpedoed by German submarine U-53.')
+
+
+L.marker([49.9910, -6.5472]).addTo(map)
+    .bindPopup('HMS K5 (20 January 1921): A K-class submarine that sank en route to a mock battle.')
+
+
+L.marker([49.9270, -6.3480]).addTo(map)
+    .bindPopup('SS Little Western (6 October 1872): A passenger ship that was wrecked on a reef off Samson.')
+
+
+L.marker([49.9300, -6.3190]).addTo(map)
+    .bindPopup('Minnehaha (18 January 1874): A barque wrecked off Peninnis Head.')
+
+
+L.marker([49.9528, -6.2914]).addTo(map)
+    .bindPopup('Nancy (February 1784): A packet ship that ran aground on the Western Rocks.')
+
+
+L.marker([49.9270, -6.3580]).addTo(map)
+    .bindPopup('Rachel Harvey (1 October 1999): A fishing vessel that struck rocks off Peninnis Head.')
+
+
+L.marker([49.9442, -6.3189]).addTo(map)
+    .bindPopup('HMS Romney (26 October 1707): A fourth-rate ship of the line wrecked in the Scilly naval disaster of 1707.')
+
+
+L.marker([49.8706, -6.3764]).addTo(map)
+    .bindPopup('SS Schiller (7 May 1875): A German ocean liner wrecked on the Retarrier Ledges, with 335 deaths.')
+
+
+L.marker([49.9347, -6.3397]).addTo(map)
+    .bindPopup('SS Thames (4 January 1841): An Irish steamship that ran aground on Cribewidden Rock.')
+
+
+L.marker([49.8939, -6.3819]).addTo(map)
+    .bindPopup('Thomas W. Lawson (14 December 1907): An American schooner wrecked off the island of Annet, spilling 58,000 barrels of kerosene.')
+
+
+L.marker([49.6833, -6.5167]).addTo(map)
+    .bindPopup('UC-19 (6 December 1916): A German minelaying submarine sunk by HMS Ariel.')
+
+
+L.marker([49.9450, -6.2760]).addTo(map)
+    .bindPopup('Wheel Wreck (Unknown): An unidentified shipwreck located off Little Ganinick, believed to date from around 1835.')
+
+
+L.marker([54.6856, -1.1433]).addTo(map)
+    .bindPopup('SS Empire Bay (15 January 1942): A collier that was bombed by German aircraft off Middlesbrough.')
+
+
+L.marker([53.9825, -0.0750]).addTo(map)
+    .bindPopup('HMS Falmouth (19 August 1916): A Town-class cruiser sunk by U-63 off Hornsea.')
+
+
+L.marker([54.5000, -0.4833]).addTo(map)
+    .bindPopup('SS Lanthorn (21 May 1917): A cargo ship that was sunk by UB-41 off Whitby.')
+
+
+L.marker([54.4795, -0.4696]).addTo(map)
+    .bindPopup('SS Saint Ninian (7 February 1917): A cargo ship that was torpedoed by UB-48 off Whitby.')
+
+
+L.marker([53.7625, -0.7614]).addTo(map)
+    .bindPopup('MS Piłsudski (26 November 1939): A Polish ocean liner sunk off Grimsby.')
+
+
+L.marker([54.4575, -0.6461]).addTo(map)
+    .bindPopup('SS Rohilla (30 October 1914): A steamship that struck a reef near Whitby.')
+
+L.marker([51.272, -3.023]).addTo(map)
+    .bindPopup('Nornen (3 March 1897): Three mast Barque (Bark. Nor). Sailing from Brunswick Georgia to Bristol England. Forced ashore at Berrow beach, Somerset, by a storm. All crew and the ship\'s dog were rescued. The hull remains as a wreck on the beach to this day.')
+
+
+L.marker([51.351, -4.116]).addTo(map)
+    .bindPopup('SS Bengrove (7 March 1915): A collier torpedoed by German submarine U-20.')
+
+
+L.marker([50.667, -6.317]).addTo(map)
+    .bindPopup('USCGC Tampa (26 September 1918): A cutter that was torpedoed by German submarine UB-91.')
+
+
+L.marker([51.406, -2.913]).addTo(map)
+    .bindPopup('SS Staghound (27 March 1942): Distilling ship bombed off Devon coast; salvaged and towed to Woodspring Bay for trials and target practice.')
+
+
+L.marker([51.407, -2.907]).addTo(map)
+    .bindPopup('SS Fernwood (18 September 1942): A collier hit by bombs off Dartmouth; towed to Woodspring Bay, near Weston, for trials and target practice. The MOD base at St Thomas Head used the vessel for trials after WW2.')
+
+
+L.marker([51.406, -2.905]).addTo(map)
+    .bindPopup('HMS Vernon (1944): Sunk off Weston-super-mare for target training and \'blockship\' trials.')
+
+
+L.marker([50.329, -4.307]).addTo(map)
+    .bindPopup('HMS A7 (16 January 1914): An A-class submarine that sank in Whitsand Bay.')
+
+
+L.marker([49.964, -5.183]).addTo(map)
+    .bindPopup('Adolf Vinnen (9 February 1923): A barquentine that was driven ashore at Bass Point.')
+
+
+L.marker([50.583, -4.569]).addTo(map)
+    .bindPopup('Caledonia (7 September 1842): A brig that was wrecked near Morwenstow.')
+
+
+L.marker([49.917, -5.367]).addTo(map)
+    .bindPopup('SS Corvus (27 February 1945): A steam merchant that was torpedoed by U-1018 off Lizard Point.')
+
+
+L.marker([50.237, -4.706]).addTo(map)
+    .bindPopup('SS Eastfield (27 November 1917): A steamship torpedoed by U-boat UB-57 off Mevagissey.')
+
+
+L.marker([50.266, -4.167]).addTo(map)
+    .bindPopup('HMS Foyle (15 March 1917): A River-class destroyer that struck a mine southeast of the Rame Peninsula.')
+
+
+L.marker([50.564, -5.239]).addTo(map)
+    .bindPopup('SS James Eagan Layne (21 March 1945): A Liberty ship, situated in 22 metres (72 ft) of water in Whitsand Bay next to the wreck of HMS Scylla.')
+
+
+L.marker([49.750, -5.333]).addTo(map)
+    .bindPopup('HMCS Regina (8 August 1944): A Flower-class corvette that was torpedoed by U-667 north of Trevose Head.')
+
+
+L.marker([50.674, -5.714]).addTo(map)
+    .bindPopup('MV RMS Mulheim (22 March 2003): German cargo ship that ran ashore at Land\'s End. Five crew members were airlifted to safety.')
+
+
+L.marker([50.594556, -4.924389]).addTo(map)
+    .bindPopup('Maria Asumpta (30 May 1995): A brig that struck rocks at Rump Point.')
+
+
+L.marker([50.050, -5.287]).addTo(map)
+    .bindPopup('St Anthony (aka Santo António) (15 January 1527): A Portuguese carrack that foundered in Gunwalloe Bay.')
+
+
+L.marker([50.017, -4.293]).addTo(map)
+    .bindPopup('SS Persier (11 February 1945): A cargo ship that was torpedoed by U-1017 off the Eddystone Rocks.')
+
+
+L.marker([49.967, -5.487]).addTo(map)
+    .bindPopup('U-1018 (27 February 1945): A Type VIIC/41 U-boat that was sunk by HMS Loch Fada in the English Channel.')
+
+
+L.marker([50.563, -5.194]).addTo(map)
+    .bindPopup('HMS Victory (4 October 1744): A first-rate ship of the line that was lost in a storm, and discovered in 2009 near Salcombe.')
+
+
+L.marker([50.297, -4.039]).addTo(map)
+    .bindPopup('HMS Amethyst (15 February 1811): A frigate that served in the French Revolutionary Wars and the Napoleonic Wars, eventually blown ashore at Mount Batten.')
+
+
+L.marker([50.295, -4.175]).addTo(map)
+    .bindPopup('HMS Formidable (1 January 1915): A Formidable-class battleship sunk off Start Point by German submarine U-24.')
+
+
+L.marker([50.313, -4.177]).addTo(map)
+    .bindPopup('HMS Foyle (15 March 1917): A River-class destroyer that struck a mine in the Strait of Dover but sank while under tow to Plymouth.')
+
+
+L.marker([50.315, -4.127]).addTo(map)
+    .bindPopup('Herzogin Cecilie (18 January 1939): A German-built barque that was beached at the Kingsbridge Estuary and later capsized.')
+
+
+L.marker([50.261, -4.307]).addTo(map)
+    .bindPopup('HMS Penylan (3 December 1942): A Hunt-class destroyer sunk by E-boats off Start Point.')
+
+
+L.marker([50.243, -4.598]).addTo(map)
+    .bindPopup('SS Persier (11 February 1945): A cargo ship that was torpedoed by U-1017 off the Eddystone Rocks.')
+
+
+L.marker([50.183, -4.208]).addTo(map)
+    .bindPopup('SS Maine (21 November 1917): A steamship torpedoed by UC-17 off Dartmouth.')
+
+
+L.marker([50.150, -4.219]).addTo(map)
+    .bindPopup('MV Ice Prince (15 January 2008): A cargo ship that sank in the English Channel.')
+
+
+L.marker([50.126, -4.323]).addTo(map)
+    .bindPopup('HMS M2 (26 January 1932): A British aircraft-carrying submarine shipwrecked in Lyme Bay.')
+
+
+L.marker([50.166, -4.241]).addTo(map)
+    .bindPopup('HMS M1 (12 November 1925): An M-class submarine that collided with the SS Vidar in the English Channel.')
+
+
+L.marker([50.320, -4.547]).addTo(map)
+    .bindPopup('HMS Scylla (27 March 2004): A type F71 Frigate sunk to create an artificial reef for divers and marine life by the National Marine Aquarium.')
+
+L.marker([55.298, -6.207]).addTo(map)
+    .bindPopup('HMS Drake (2 October 1917): Torpedoed by U-79 in Rathlin Sound.')
+
+
+L.marker([55.2462, -6.5043]).addTo(map)
+    .bindPopup('Girona (26 October 1588): Foundered and sank off Lacada Point, County Antrim.')
+
+
+L.marker([54.060, -5.993]).addTo(map)
+    .bindPopup('Tullaghmurray Lass (February 2002): A Kilkeel fishing boat that sank after a gas explosion.')
+
+
+L.marker([56.6, -6.3333]).addTo(map)
+    .bindPopup('RMS Aurania (4 February 1918): An ocean liner that was torpedoed by UB-67 off the coast of Ireland.')
+
+
+L.marker([56.0833, -2.5333]).addTo(map)
+    .bindPopup('Avondale Park (7 May 1945): A cargo ship that was sunk by U-2336 south of the Isle of May.')
+
+
+L.marker([56.475, -5.4167]).addTo(map)
+    .bindPopup('Breda (23 December 1940): Dutch cargo ship, sunk by two German Heinkel He 111 bomber aircraft in Ardmucknish Bay off Oban.')
+
+
+L.marker([58.8922, -3.0500]).addTo(map)
+    .bindPopup('SMS Cöln (21 June 1919): A Cöln-class cruiser that was among the 74 ships scuttled in Scapa Flow by Admiral Reuter.')
+
+
+L.marker([56.5064, -5.6957]).addTo(map)
+    .bindPopup('HMS Dartmouth (9 October 1690): A frigate wrecked in the Sound of Mull.')
+
+
+L.marker([55.6106, -5.0017]).addTo(map)
+    .bindPopup('HMS Dasher (27 March 1943): Aircraft carrier sunk by a major internal explosion. Lies in the Clyde estuary.')
+
+
+L.marker([56.2778, -6.9139]).addTo(map)
+    .bindPopup('HMS Graph (20 March 1944): Formerly the German U-boat U-570. Captured and taken into Royal Navy service in 1942, she ran aground and was wrecked on Islay in 1944.')
+
+
+L.marker([56.5667, -5.9833]).addTo(map)
+    .bindPopup('Hispania (18 December 1954): A Swedish steamboat that struck rocks in the Sound of Mull.')
+
+
+L.marker([58.5678, -2.9000]).addTo(map)
+    .bindPopup('HMS Hampshire (5 June 1916): British armoured cruiser that struck a naval mine off Orkney.')
+
+
+L.marker([58.5667, -2.9833]).addTo(map)
+    .bindPopup('HMS Royal Oak (14 October 1939): A Revenge-class battleship torpedoed in Scapa Flow by U-47, with 833 deaths.')
+
+
+L.marker([55.1858, -4.9344]).addTo(map)
+    .bindPopup('Valkyrie II (5 July 1894): A cutter that collided with Satanita on the Firth of Clyde.')
+
+
+L.marker([55.7167, -5.3333]).addTo(map)
+    .bindPopup('HMS Vandal (24 February 1943): A U-class submarine sunk off Lochranza four days after commissioning.')
+
+
+L.marker([55.1833, -4.9417]).addTo(map)
+    .bindPopup('Varyag (1925): A Russian protected cruiser that ran aground and sank in the Firth of Clyde.')
+
+
+L.marker([57.2517, -1.6500]).addTo(map)
+    .bindPopup('U-1206 (14 April 1945): A Type VIIC U-boat that sprung a leak and sank off Cruden Bay, Aberdeenshire.')
+
+
+L.marker([57.155, -6.9167]).addTo(map)
+    .bindPopup('U-722 (27 March 1945): A Type VIIC U-boat that was sunk in the Sea of the Hebrides by HMS Fitzroy, HMS Redmill, and HMS Byron.')
+
+L.marker([52.7167, -5.1167]).addTo(map)
+    .bindPopup('Behar (24 November 1940): A 6,100-ton steamer sunk by a magnetic parachute mine in Milford Haven, Pembrokeshire.')
+
+
+L.marker([53.4175, -4.5981]).addTo(map)
+    .bindPopup('Castilian (12 February 1943): A cargo ship that ran aground off The Skerries, Anglesey.')
+
+
+L.marker([52.520, -4.541]).addTo(map)
+    .bindPopup('Diamond (2 January 1825): A three-masted square rigger with a composite hull, lost in Cardigan Bay.')
+
+
+L.marker([51.6833, -5.1667]).addTo(map)
+    .bindPopup('Empire Beacon (5 April 1942): A coastal trading vessel that struck a mine off Pembrokeshire.')
+
+
+L.marker([53.371, -3.849]).addTo(map)
+    .bindPopup('Lelia (14 January 1865): A steamship that sank in a storm off the Great Orme.')
+
+
+L.marker([53.4167, -4.5833]).addTo(map)
+    .bindPopup('Ocean Monarch (25 August 1848): A barque that caught fire and sank northeast of Llandudno.')
+
+
+L.marker([51.7332, -4.3749]).addTo(map)
+    .bindPopup('Paul (30 October 1925): A four-masted windjammer wrecked on the Cefn Sidan sands.')
+
+
+L.marker([53.3961, -3.5536]).addTo(map)
+    .bindPopup('Resurgam II (25 February 1880): A protected wrecksite near Rhyl.')
+
+
+L.marker([53.2833, -4.0083]).addTo(map)
+    .bindPopup('Rothsay Castle (18 August 1831): A paddle steamer that ran aground and broke up at the eastern end of the Menai Strait.')
+
+
+L.marker([53.354, -4.235]).addTo(map)
+    .bindPopup('Royal Charter (26 October 1859): A steam clipper driven onto rocks near Moelfre, Anglesey.')
+
+
+L.marker([51.5003, -3.7406]).addTo(map)
+    .bindPopup('Samtampa (23 April 1947): A steamship wrecked off Sker Point.')
+
+
+L.marker([51.5333, -5.3500]).addTo(map)
+    .bindPopup('U-58 (17 November 1917): A Type U 57 U-boat sunk by USS Fanning in the action of 17 November 1917.')
+
+
+L.marker([52.3167, -5.3833]).addTo(map)
+    .bindPopup('U-1302 (7 March 1945): A Type VIIC/41 U-boat sunk by depth charges from Canadian frigates in St. George\'s Channel.')
+
+
+L.marker([51.7308, -5.4814]).addTo(map)
+    .bindPopup('Walter L M Russ (15 July 1945): A German cargo ship captured by the Allies and ran aground on Grassholm.')
+
+
+L.marker([52.2797, -4.6781]).addTo(map)
+    .bindPopup('HMS Whirlwind (29 October 1974): A W-class destroyer sunk as a target in Cardigan Bay.')
+
+L.marker([12.033333, 134.799997]).addTo(map)
+  .bindPopup('USS Indianapolis (CA-35): Heavy cruiser. Sank in 1945.');
+
+L.marker([48.1, -16.2]).addTo(map)
+  .bindPopup('KMS Bismarck: German battleship. Sank in 1941.');
+
+L.marker([27.8085, 33.9187]).addTo(map)
+  .bindPopup('SS Thistlegorm: British armed freighter. Sank in 1941.');
+
+L.marker([50.7176, -1.8388]).addTo(map)
+  .bindPopup('Unknown ship: Unknown wreck. Sank date unknown.');
+
+L.marker([44.2705644, -76.0895271]).addTo(map)
+  .bindPopup('Grindstone Island Cars: Scuttled railcars. Sank in 1953.');
+
+L.marker([44.693333, 75.514722]).addTo(map)
+  .bindPopup("Loblaw's Wreck: Wooden wreck. Sank in 1850.");
+
+L.marker([41.586111, -69.9625]).addTo(map)
+  .bindPopup('SS Pendleton: T2 tanker. Sank in 1952.');
+
+L.marker([11.593461, 92.212425]).addTo(map)
+  .bindPopup('Nineveh: Clipper ship. Sank in 1867.');
+
+L.marker([46.7405831, -84.9646171]).addTo(map)
+  .bindPopup('John B. Cowle: Freighter. Sank in 1909.');
+
+L.marker([-5.0833331, -11.6333332]).addTo(map)
+  .bindPopup('RMS Laconia: Ocean liner. Sank in 1942.');
+
+L.marker([34.7624611, -75.5075612]).addTo(map)
+  .bindPopup('U-576: German submarine. Sank in 1942.');
+
+L.marker([34.7621111, -75.5049611]).addTo(map)
+  .bindPopup('SS Bluefields: Nicaraguan merchant. Sank in 1942.');
+
+L.marker([30.3666671, 128.0666671]).addTo(map)
+  .bindPopup('Japanese Battleship Yamato: Battleship. Sank in 1945.');
+
+L.marker([55.0729001, 17.4213001]).addTo(map)
+  .bindPopup('MV Wilhelm Gustloff: German liner. Sank in 1939.');
+
+L.marker([-19.304417, 147.625444]).addTo(map)
+  .bindPopup('SS Yongala: Passenger ship. Sank in 1911.');
+
+L.marker([28.3460771, -14.1804422]).addTo(map)
+  .bindPopup('SS America: Passenger liner (wreck). Sank in 1994.');
+
+L.marker([45.05, -83.0333331]).addTo(map)
+  .bindPopup('SS Isaac M. Scott: Freighter. Sank in 1913.');
+
+L.marker([54.7628051, -5.6882422]).addTo(map)
+  .bindPopup('SS Chirripo: Cargo steamer. Sank in 1917.');
+
+L.marker([7.802467, 98.643317]).addTo(map)
+  .bindPopup('King Cruiser Wreck: Car ferry. Sank in 1997.');
+
+L.marker([46.9985, -85.110167]).addTo(map)
+  .bindPopup('SS Edmund Fitzgerald: Ore carrier. Sank in 1975.');
+
+L.marker([54.976711, -132.108964]).addTo(map)
+  .bindPopup('MV Vashon: Car ferry. Sank in 1986.');
+
+L.marker([-8.639722, 166.709444]).addTo(map)
+  .bindPopup('USS Hornet (CV-8): Aircraft carrier. Sank in 1943.');
+
+L.marker([41.5323, -82.006167]).addTo(map)
+  .bindPopup('Craftsman: Freighter. Sank in 1958.');
+
+L.marker([41.5886, -81.976617]).addTo(map)
+  .bindPopup('John Pridgeon: Barge. Sank in 1909.');
+
+L.marker([41.57385, -81.958667]).addTo(map)
+  .bindPopup('Sand Merchant: Bulk carrier. Sank in 1936.');
+
+L.marker([41.550117, -81.934667]).addTo(map)
+  .bindPopup('Schooner - unknown: Schooner. Sank date unknown.');
+
+L.marker([41.564167, -81.921333]).addTo(map)
+  .bindPopup('Two Fannies: Schooner. Sank in 1890.');
+
+L.marker([41.5309, -81.883283]).addTo(map)
+  .bindPopup('Mecosta: Tug. Sank in 1922.');
+
+L.marker([41.518333, -81.819533]).addTo(map)
+  .bindPopup('John B. Griffin: Schooner. Sank in 1892.');
+
+L.marker([41.534133, -81.810117]).addTo(map)
+  .bindPopup('H. G. Cleveland: Tug. Sank in 1899.');
+
+L.marker([41.513, -81.769183]).addTo(map)
+  .bindPopup('Tug - unknown 117th street: Tug. Sank date unknown.');
+
+L.marker([41.50555, -81.731883]).addTo(map)
+  .bindPopup('Mabel Wilson: Schooner. Sank in 1906.');
+
+L.marker([41.5106, -81.729117]).addTo(map)
+  .bindPopup('Fannie L. Jones: Schooner. Sank in 1890.');
+
+L.marker([41.51295, -81.72525]).addTo(map)
+  .bindPopup('Charles H. Davis: Schooner. Sank in 1903.');
+
+L.marker([41.520367, -81.715667]).addTo(map)
+  .bindPopup('Algeria: Barge. Sank in 1906.');
+
+L.marker([41.637383, -81.9033]).addTo(map)
+  .bindPopup('Admiral: Freighter. Sank in 1942.');
+
+L.marker([41.688883, -81.843817]).addTo(map)
+  .bindPopup('Dundee: Freighter. Sank in 1900.');
+
+L.marker([41.6938, -81.96085]).addTo(map)
+  .bindPopup('Duke Luedtke: Tug. Sank in 1993.');
+
+L.marker([41.74085, -81.881983]).addTo(map)
+  .bindPopup('Steven F. Gale: Schooner. Sank in 1876.');
+
+L.marker([41.924017, -82.0492]).addTo(map)
+  .bindPopup('F.A. Meyer: Barge. Sank in 1909.');
+
+L.marker([41.9187, -81.9131]).addTo(map)
+  .bindPopup('Valentine: Schooner. Sank in 1877.');
+
+L.marker([41.9037, -81.946433]).addTo(map)
+  .bindPopup('Little Wissahickon: Schooner. Sank in 1896.');
+
+L.marker([41.95915, -81.953967]).addTo(map)
+  .bindPopup('Frank E. Vigor: Freighter. Sank in 1944.');
+
+L.marker([42.003083, -82.070333]).addTo(map)
+  .bindPopup('Steamer - unknown near Erieau: Steamer. Sank date unknown.');
+
+L.marker([42.251083, -82.071533]).addTo(map)
+  .bindPopup('Colonial: Steamer. Sank in 1914.');
+
+L.marker([42.218333, -81.98235]).addTo(map)
+  .bindPopup('Robert: Tug. Sank in 1982.');
+
+L.marker([42.256917, -81.905633]).addTo(map)
+  .bindPopup('Schooner - unknown - Erieau: Schooner. Sank date unknown.');
+
+L.marker([42.251333, -81.889767]).addTo(map)
+  .bindPopup('Lycoming: Freighter. Sank in 1910.');
+
+L.marker([42.374067, -81.8213]).addTo(map)
+  .bindPopup('Phalarope: Schooner. Sank in 1872.');
+
+L.marker([42.139667, -81.632317]).addTo(map)
+  .bindPopup('Schooner - three masted unknown: Three-masted schooner. Sank date unknown.');
+
+L.marker([42.089633, -81.738017]).addTo(map)
+  .bindPopup('James B. Colgate: Steamer. Sank in 1916.');
+    
+L.marker([41.791133, -81.6001]).addTo(map)
+  .bindPopup('Cleveco: Tank barge. Sank in 1942.');
+
+L.marker([41.730167, -81.381467]).addTo(map)
+  .bindPopup('North Carolina: Freighter. Sank in 1968.');
+
+L.marker([41.84615, -81.38555]).addTo(map)
+  .bindPopup('Queen of the West: Steamer. Sank in 1903.');
+
+L.marker([41.840917, -81.05135]).addTo(map)
+  .bindPopup('Charles B. Hill: Wooden wreck. Sank date unknown.');
+
+L.marker([42.151867, -81.3902]).addTo(map)
+  .bindPopup('H. A. Barr: Steamer. Sank in 1902.');
+
+L.marker([42.232517, -81.346433]).addTo(map)
+  .bindPopup('Merida: Freighter. Sank in 1916.');
+
+L.marker([42.42085, -81.358367]).addTo(map)
+  .bindPopup('Dawn: Schooner. Sank in 1859.');
+
+L.marker([42.424067, -81.171867]).addTo(map)
+  .bindPopup("Louis O'Neil: Schooner. Sank in 1887.");
+
+L.marker([42.377483, -81.00515]).addTo(map)
+  .bindPopup('Nimrod: Schooner. Sank in 1874.');
+
+L.marker([42.039583, -80.56255]).addTo(map)
+  .bindPopup('John B. Lyon: Freighter. Sank date unknown.');
+
+L.marker([42.2695, -80.796167]).addTo(map)
+  .bindPopup('James H. Reed: Freighter. Sank in 1944.');
+
+L.marker([42.32505, -80.674967]).addTo(map)
+  .bindPopup('William Stevens: Freighter. Sank in 1902.');
+
+L.marker([42.4911, -80.693533]).addTo(map)
+  .bindPopup('Barge (unnamed): Work barge. Sank in 1900.');
+
+L.marker([42.374483, -80.4185]).addTo(map)
+  .bindPopup('Drill Rig: Offshore rig wreck. Sank date unknown.');
+
+L.marker([42.375433, -80.35385]).addTo(map)
+  .bindPopup('Aycliffe Hall: Freighter. Sank in 1936.');
+
+L.marker([42.174067, -80.250067]).addTo(map)
+  .bindPopup('Charles Foster: Schooner. Sank in 1900.');
+
+L.marker([42.128033, -80.17825]).addTo(map)
+  .bindPopup('Philip D. Armour: Freighter. Sank in 1915.');
+
+L.marker([42.172117, -80.015]).addTo(map)
+  .bindPopup('Canobie: Barge. Sank in 1921.');
+
+L.marker([42.24245, -79.93335]).addTo(map)
+  .bindPopup('S. K. Martin: Steamer. Sank in 1912.');
+
+L.marker([42.293333, -79.9983]).addTo(map)
+  .bindPopup('Indiana: Steamer. Sank in 1870.');
+
+L.marker([42.29035, -79.930983]).addTo(map)
+  .bindPopup('Dean Richmond: Freighter. Sank in 1893.');
+
+L.marker([42.474567, -80.069217]).addTo(map)
+  .bindPopup('Andrew B.: Tug & barge. Sank in 1995.');
+
+L.marker([42.45255, -80.275367]).addTo(map)
+  .bindPopup('Crystal Wreck: Unidentified wreck. Sank date unknown.');
+
+L.marker([42.419, -80.201]).addTo(map)
+  .bindPopup('Trade Wind: Schooner. Sank in 1854.');
+
+L.marker([42.451667, -80.122167]).addTo(map)
+  .bindPopup('St. James: Schooner. Sank in 1870.');
+
+L.marker([42.505017, -80.039717]).addTo(map)
+  .bindPopup('Stern Castle: Unidentified wreck. Sank date unknown.');
+
+L.marker([42.457883, -80.016983]).addTo(map)
+  .bindPopup('Oneida: Steamer. Sank in 1852.');
+
+L.marker([42.474683, -79.9844]).addTo(map)
+  .bindPopup('Smith: Tug. Sank in 1930.');
+
+L.marker([42.5103, -80.0848]).addTo(map)
+  .bindPopup('Atlantic: Steamer. Sank in 1852.');
+
+L.marker([42.536333, -80.066167]).addTo(map)
+  .bindPopup('C. W. Elphicke: Schooner. Sank in 1913.');
+
+L.marker([42.551667, -80.045139]).addTo(map)
+  .bindPopup('Henry Clay: Schooner. Sank in 1861.');
+
+L.marker([42.635167, -80.369667]).addTo(map)
+  .bindPopup('Ontario: Schooner. Sank in 1858.');
+
+L.marker([42.763, -80.22825]).addTo(map)
+  .bindPopup('Cecil J.: Tug. Sank in 1943.');
+
+L.marker([42.576667, -80.118333]).addTo(map)
+  .bindPopup('Siberia: Steamer. Sank in 1905.');
+
+L.marker([42.561083, -80.092633]).addTo(map)
+  .bindPopup('Pascal P. Pratt: Schooner. Sank in 1908.');
+
+L.marker([42.6517, -80.052383]).addTo(map)
+  .bindPopup('17-Fathom Wreck: Unidentified wreck. Sank date unknown.');
+
+L.marker([42.702517, -80.034417]).addTo(map)
+  .bindPopup('Wilma: Freighter. Sank in 1936.');
+
+L.marker([42.627417, -80.09845]).addTo(map)
+  .bindPopup('Brown Brothers: Tug. Sank in 1959.');
+
+L.marker([42.587067, -80.022333]).addTo(map)
+  .bindPopup('T-8 schooner: Unidentified schooner. Sank date unknown.');
+
+L.marker([42.581667, -79.940883]).addTo(map)
+  .bindPopup('Swallow: Schooner. Sank in 1901.');
+
+L.marker([42.543317, -79.925533]).addTo(map)
+  .bindPopup('Sir C. T. Van Straubenzie: Steamer. Sank in 1909.');
+
+L.marker([42.563, -79.911667]).addTo(map)
+  .bindPopup('Persian: Steamer. Sank in 1875.');
+
+L.marker([42.558167, -79.860833]).addTo(map)
+  .bindPopup('Cracker Wreck: Unidentified wreck. Sank date unknown.');
+
+L.marker([42.480867, -79.864]).addTo(map)
+  .bindPopup('Oxford: Schooner. Sank in 1856.');
+
+L.marker([42.286167, -79.717933]).addTo(map)
+  .bindPopup('City of Rome: Steamer. Sank in 1914.');
+
+L.marker([42.426, -79.74985]).addTo(map)
+  .bindPopup('George Whelan: Unidentified wreck. Sank date unknown.');
+
+L.marker([42.3799, -79.733333]).addTo(map)
+  .bindPopup('John J. Boland: Freighter. Sank in 1932.');
+
+L.marker([42.50175, -79.683417]).addTo(map)
+  .bindPopup('Barge "F": Work barge. Sank date unknown.');
+
+L.marker([42.738583, -79.60435]).addTo(map)
+  .bindPopup('Niagara: Freighter. Sank in 1899.');
+
+L.marker([42.668117, -79.604167]).addTo(map)
+  .bindPopup('George C. Finney: Schooner. Sank in 1891.');
+
+L.marker([42.418633, -79.608917]).addTo(map)
+  .bindPopup('Betty Hedger: Freighter. Sank in 1937.');
+
+L.marker([42.851867, -79.343333]).addTo(map)
+  .bindPopup('Marengo: Steamer. Sank in 1912.');
+
+L.marker([42.771, -79.2435]).addTo(map)
+  .bindPopup('C B Benson: Schooner. Sank in 1893.');
+
+L.marker([42.8105, -79.2185]).addTo(map)
+  .bindPopup('Dupuis #10: Work barge. Sank in 1997.');
+
+L.marker([42.864883, -79.1544]).addTo(map)
+  .bindPopup('Raleigh: Steamer. Sank in 1911.');
+
+L.marker([42.832167, -79.100167]).addTo(map)
+  .bindPopup('Briton: Freighter. Sank in 1929.');
+
+L.marker([42.838, -79.007667]).addTo(map)
+  .bindPopup('O. W. Cheney: Steamer. Sank in 1903.');
+
+L.marker([35.001667, -75.406389]).addTo(map)
+  .bindPopup('USS Monitor: Ironclad warship. Sank in 1862.');
+
+L.marker([49.49, -0.713333]).addTo(map)
+  .bindPopup('USS Susan B Anthony (AP-72): Troop transport. Sank in 1944.');
+
+L.marker([37.781594, -122.516083]).addTo(map)
+  .bindPopup('SS Ohioan: Cargo ship. Sank in 1936.');
+
+L.marker([49.765833, -1.605556]).addTo(map)
+  .bindPopup('SS Léopoldville: Troopship. Sank in 1944.');
+
+L.marker([18.3687, -64.5356]).addTo(map)
+  .bindPopup('RMS Rhone: Packet steamer. Sank in 1867.');
+
+L.marker([34.619278, -120.635778]).addTo(map)
+  .bindPopup('SS Harvard: Coastal liner. Sank in 1931.');
+
+L.marker([-22.241028, 14.353601]).addTo(map)
+  .bindPopup('MFV Zeila (L758): Fishing trawler. Sank in 2008.');
+
+L.marker([-23.995889, 14.457483]).addTo(map)
+  .bindPopup('Eduard Bohlen: Cargo ship. Sank in 1909.');
+
+L.marker([50.916663, -4.816663]).addTo(map)
+  .bindPopup('HMHS Rewa: Hospital ship. Sank in 1918.');
+
+L.marker([51.116666, -5.049999]).addTo(map)
+  .bindPopup('HMHS Glenart Castle: Hospital ship. Sank in 1918.');
+
+L.marker([36.290833, -121.997778]).addTo(map)
+  .bindPopup('USS Macon (ZRS-5): Rigid airship wreck. Sank in 1935.');
+
+L.marker([40.537703, -73.685844]).addTo(map)
+  .bindPopup('SS Iberia: Passenger/cargo steamer. Sank in 1888.');
+
+L.marker([49.521102, -10.651156]).addTo(map)
+  .bindPopup('RMS Carpathia: Ocean liner. Sank in 1918.');
+
+L.marker([37.781263, -122.550586]).addTo(map)
+  .bindPopup('USS Benevolence (AH-13): Hospital ship. Sank in 1950.');
+
+L.marker([37.786639, -122.508476]).addTo(map)
+  .bindPopup('TV Lyman Stewart: Tanker. Sank in 1922.');
+
+L.marker([37.785229, -122.511036]).addTo(map)
+  .bindPopup('TV Frank H Buck: Tanker. Sank in 1937.');
+
+L.marker([37.816594, -122.53025]).addTo(map)
+  .bindPopup('SS City of New York: Passenger liner. Sank in 1893.');
+
+L.marker([21.36488, -157.95001]).addTo(map)
+  .bindPopup('USS Arizona (BB-39): Battleship. Sank in 1941.');
+
+L.marker([37.813889, -122.466667]).addTo(map)
+  .bindPopup('SS City of Chester: Passenger steamer. Sank in 1888.');
+
+L.marker([46.254028, -52.620694]).addTo(map)
+  .bindPopup('SS Arctic: Side-wheel steamer. Sank in 1854.');
+
+L.marker([40.491667, -69.85]).addTo(map)
+  .bindPopup('SS Andrea Doria: Ocean liner. Sank in 1956.');
+
+L.marker([44.441796, -63.733556]).addTo(map)
+  .bindPopup('RMS Atlantic: Ocean liner. Sank in 1873.');
+
+L.marker([42.928167, -59.916806]).addTo(map)
+  .bindPopup('SS La Bourgogne: Ocean liner. Sank in 1898.');
+
+L.marker([34.608778, -120.639028]).addTo(map)
+  .bindPopup('SS Santa Rosa: Passenger steamer. Sank in 1911.');
+
+L.marker([43.888481, -69.256355]).addTo(map)
+  .bindPopup('SS Polias: Concrete steamer. Sank in 1920.');
+
+L.marker([28.666667, -88.7]).addTo(map)
+  .bindPopup('SS Robert E. Lee: Passenger steamer. Sank in 1942.');
+
+L.marker([41.475, -71.35]).addTo(map)
+  .bindPopup('SS Cape Fear: Cargo steamer. Sank in 1920.');
+
+L.marker([38.944335, -74.972021]).addTo(map)
+  .bindPopup('SS Atlantus: Concrete ship. Sank in 1926.');
+
+L.marker([36.865563, -111.580437]).addTo(map)
+  .bindPopup('PS Charles H Spencer: Paddle steamer. Sank in 1921.');
+
+L.marker([28.692607, -88.700461]).addTo(map)
+  .bindPopup('U-166: German submarine. Sank in 1942.');
+
+L.marker([29.344255, -94.78628]).addTo(map)
+  .bindPopup('SS Selma: Concrete tanker. Sank in 1920.');
+
+L.marker([25.6505, -79.293414]).addTo(map)
+  .bindPopup('SS Sapona: Concrete cargo ship. Sank in 1926.');
+
+L.marker([36.96961, -121.914004]).addTo(map)
+  .bindPopup('SS Palo Alto: Concrete tanker. Sank in 1929.');
+
+L.marker([51.465794, 0.786467]).addTo(map)
+  .bindPopup('SS Richard Montgomery: Liberty ship (munitions). Sank in 1944.');
+
+L.marker([32.674021, -117.173038]).addTo(map)
+  .bindPopup('SS Monte Carlo: Concrete gambling ship. Sank in 1937.');
+
+L.marker([38.166681, -122.287325]).addTo(map)
+  .bindPopup('USS Corry (DD-334): Destroyer (scrapped hull). Sank in 1930.');
+
+L.marker([-52.2477, -69.032]).addTo(map)
+  .bindPopup('PS Olympian: Side-wheel steamer. Sank in 1906.');
+
+L.marker([40.5501, -73.007886]).addTo(map)
+  .bindPopup('USS San Diego (CA-6): Armored cruiser. Sank in 1918.');
+
+L.marker([51.412392, -8.547853]).addTo(map)
+  .bindPopup('RMS Lusitania: Ocean liner. Sank in 1915.');
+
+L.marker([37.701389, 24.283889]).addTo(map)
+  .bindPopup('HMHS Britannic: Hospital ship. Sank in 1916.');
+
+L.marker([25.9167, -78.1]).addTo(map)
+  .bindPopup('SS Yarmouth Castle: Passenger cruise ship. Sank in 1965.');
+
+L.marker([47.592, -122.42]).addTo(map)
+  .bindPopup('SS Dix: Passenger steamer. Sank in 1906.');
+
+L.marker([37.813328, -122.489044]).addTo(map)
+  .bindPopup('SS City of Rio de Janeiro: Passenger steamer. Sank in 1901.');
+L.marker([48.268278, -122.929211]).addTo(map)
+  .bindPopup('SS Clallam: Passenger steamer. Sank in 1904.');
+
+L.marker([48.383117, -125.001361]).addTo(map)
+  .bindPopup('SS Pacific: Passenger steamer. Sank in 1875.');
+
+L.marker([37.183278, -122.417753]).addTo(map)
+  .bindPopup('SS San Juan: Passenger steamer. Sank in 1929.');
+
+L.marker([48.705556, -125.005833]).addTo(map)
+  .bindPopup('SS Valencia: Passenger steamer. Sank in 1906.');
+
+L.marker([48.625, -68.408333]).addTo(map)
+  .bindPopup('RMS Empress of Ireland: Ocean liner. Sank in 1914.');
+
+L.marker([40.5302, -72.855167]).addTo(map)
+  .bindPopup('SS Oregon: Ocean liner. Sank in 1886.');
+
+L.marker([40.65, -72.633333]).addTo(map)
+  .bindPopup('TWA Flight 800: Boeing 747 wreck. Sank in 1996.');
+
+L.marker([41.731183, -49.949444]).addTo(map)
+  .bindPopup('RMS Titanic: Ocean liner. Sank in 1912.');
+
+L.marker([39.958175, -124.183961]).addTo(map)
+  .bindPopup('SS Columbia: Passenger steamer. Sank in 1907.');
+
+L.marker([42.807258, -76.713531]).addTo(map)
+  .bindPopup('Frontenac: Steamer. Sank in 1907.');
+
+L.marker([43.4402, -73.6927]).addTo(map)
+  .bindPopup('Land Tortoise: Military radeau. Sank in 1758.');
+
+L.marker([43.228433, -75.894883]).addTo(map)
+  .bindPopup('Cleveland Barge: Work barge. Sank date unknown.');
+
+L.marker([43.207083, -75.92555]).addTo(map)
+  .bindPopup('Shackelton Barge: Work barge. Sank date unknown.');
+
+L.marker([43.2298, -76.05575]).addTo(map)
+  .bindPopup('Sand Barge: Work barge. Sank date unknown.');
+
+L.marker([43.21845, -76.043233]).addTo(map)
+  .bindPopup('Egan Sisters Newspaper Barge: Work barge. Sank date unknown.');
+
+L.marker([43.20635, -75.885867]).addTo(map)
+  .bindPopup('Apps #2 Barge: Work barge. Sank date unknown.');
+
+L.marker([43.20355, -75.855917]).addTo(map)
+  .bindPopup('Thomas H – Barge #2: Work barge. Sank in 1945.');
+
+L.marker([43.204917, -75.8548]).addTo(map)
+  .bindPopup('Thomas H – Barge #1: Work barge. Sank in 1945.');
+
+L.marker([43.2042, -75.852717]).addTo(map)
+  .bindPopup('Tug Thomas H: Tugboat. Sank in 1945.');
+
+L.marker([43.207333, -75.925333]).addTo(map)
+  .bindPopup('Oneida Lake sunken barge: Work barge. Sank date unknown.');
+
+L.marker([43.21185, -75.985517]).addTo(map)
+  .bindPopup('Tug Elsie K (wreck debris): Tugboat. Sank date unknown.');
+
+L.marker([42.6545, -79.476767]).addTo(map)
+  .bindPopup('Carlingford: Schooner. Sank in 1881.');
+
+L.marker([42.537167, -79.4531]).addTo(map)
+  .bindPopup('Schooner C: Schooner. Sank date unknown.');
+
+L.marker([42.610067, -79.4975]).addTo(map)
+  .bindPopup('Acme (propeller): Freighter. Sank in 1867.');
+
+L.marker([42.418833, -79.451833]).addTo(map)
+  .bindPopup('Manzanilla: Schooner. Sank in 1887.');
+
+L.marker([42.5395, -79.460667]).addTo(map)
+  .bindPopup('Washington Irving: Schooner. Sank in 1860.');
+
+L.marker([42.479, -79.462833]).addTo(map)
+  .bindPopup('Passaic: Propeller steamer. Sank in 1891.');
+
+L.marker([42.498583, -79.351967]).addTo(map)
+  .bindPopup('Annabell Wilson: Schooner. Sank in 1913.');
+
+L.marker([42.591083, -79.4091]).addTo(map)
+  .bindPopup('Brunswick: Propeller steamer. Sank in 1881.');
+
+L.marker([42.668, -79.396033]).addTo(map)
+  .bindPopup('J G McGrath: Schooner. Sank in 1878.');
+
+L.marker([42.873867, -78.901667]).addTo(map)
+  .bindPopup('Barge 43: Work barge. Sank in 1961.');
+
+L.marker([42.873267, -78.912]).addTo(map)
+  .bindPopup('Alabama: Side-wheel steamer. Sank in 1854.');
+
+L.marker([42.851217, -78.912933]).addTo(map)
+  .bindPopup('W C Richardson: Freighter. Sank in 1909.');
+
+L.marker([42.845, -78.964]).addTo(map)
+  .bindPopup('Acme (tug): Tugboat. Sank in 1902.');
+
+L.marker([42.849083, -78.983583]).addTo(map)
+  .bindPopup('Finch: Barge. Sank in 1883.');
+
+L.marker([42.8455, -78.983333]).addTo(map)
+  .bindPopup('Tonawanda: Propeller steamer. Sank in 1870.');
+
+L.marker([42.629333, -79.142667]).addTo(map)
+  .bindPopup("Bishops Derirck: Barge. Sank in 1853.");
+
+L.marker([42.890333, -78.898833]).addTo(map)
+  .bindPopup('US 104: Work barge. Sank in 1921.');
+
+L.marker([43.452778, -73.680278]).addTo(map)
+  .bindPopup('Forward: 1911 motor launch. Sank date unknown.');
+
+L.marker([44.206, -73.376333]).addTo(map)
+  .bindPopup('Champlain: Side-wheel steamer. Sank in 1875.');
+
+L.marker([44.549667, -73.335167]).addTo(map)
+  .bindPopup('Phoenix: Side-wheel steamer. Sank in 1819.');
+
+L.marker([44.313, -73.3082]).addTo(map)
+  .bindPopup('Sloop Island canal boat: Canal boat. Sank date unknown.');
+
+L.marker([44.235, -73.334]).addTo(map)
+  .bindPopup('Stone canal boat: Canal boat. Sank date unknown.');
+
+L.marker([44.454333, -73.246]).addTo(map)
+  .bindPopup('A R Noyes: Canal boat. Sank in 1884.');
+
+L.marker([44.478667, -73.240667]).addTo(map)
+  .bindPopup('O J Walker: Schooner-barge. Sank in 1895.');
+
+L.marker([44.4705, -73.228333]).addTo(map)
+  .bindPopup('General Butler: Canal schooner. Sank in 1876.');
+
+L.marker([44.233333, -73.334667]).addTo(map)
+  .bindPopup('Water Witch: Passenger schooner. Sank in 1866.');
+
+L.marker([44.485333, -73.243]).addTo(map)
+  .bindPopup('Horse Powered Ferry Boat: Turntable ferry. Sank date unknown.');
+
+L.marker([44.2582, -76.066]).addTo(map)
+  .bindPopup('North Colborne Island barge: Work barge. Sank date unknown.');
+
+L.marker([44.243833, -76.080833]).addTo(map)
+  .bindPopup('Elk: Schooner. Sank in 1860.');
+
+L.marker([44.24925, -76.104]).addTo(map)
+  .bindPopup('Grand View: Steamer. Sank in 1906.');
+
+L.marker([44.24, -76.186]).addTo(map)
+  .bindPopup('WHG: Speed boat. Sank in 1912.');
+
+L.marker([44.150317, -76.348767]).addTo(map)
+  .bindPopup('Lewiston: Steamer. Sank date unknown.');
+
+L.marker([44.415967, -75.848783]).addTo(map)
+  .bindPopup('Grenadier Island sailing ships: Sailing-ship wrecks. Sank date unknown.');
+
+L.marker([44.394583, -75.887283]).addTo(map)
+  .bindPopup('Clara White: Schooner. Sank in 1889.');
+
+L.marker([44.348733, -75.912967]).addTo(map)
+  .bindPopup('Catherine: Yacht. Sank in 1890.');
+
+L.marker([44.375183, -75.9202]).addTo(map)
+  .bindPopup('Air Boat: Experimental air-boat. Sank in 1930.');
+
+L.marker([44.287017, -76.004333]).addTo(map)
+  .bindPopup('Steam Launch: Steam launch. Sank date unknown.');
+
+L.marker([44.553056, -75.725833]).addTo(map)
+  .bindPopup('Sam Cooke: Schooner. Sank in 1882.');
+
+L.marker([44.56245, -75.71155]).addTo(map)
+  .bindPopup('John B King: Drill scow. Sank in 1930.');
+
+L.marker([44.589317, -75.677083]).addTo(map)
+  .bindPopup('Robert Gaskin: Barque. Sank in 1889.');
+
+L.marker([44.6048, -75.653317]).addTo(map)
+  .bindPopup('Muscallonge: Tug. Sank in 1936.');
+
+L.marker([44.699444, -75.527778]).addTo(map)
+  .bindPopup('Rothesay: Paddle-wheeler. Sank in 1889.');
+
+L.marker([44.71645, -75.4763]).addTo(map)
+  .bindPopup('Fleur Marie: Brigantine. Sank in 1884.');
+
+L.marker([44.779444, -75.393333]).addTo(map)
+  .bindPopup('Conestoga: Freighter. Sank in 1922.');
+
+L.marker([44.924667, -75.101167]).addTo(map)
+  .bindPopup('Eastcliffe Hall: Bulk carrier. Sank in 1970.');
+
+L.marker([44.934167, -75.061944]).addTo(map)
+  .bindPopup('Chippewa: Propeller steamer. Sank in 1920.');
+
+L.marker([45.034167, -74.621917]).addTo(map)
+  .bindPopup('Fred Mercur: Propeller steamer. Sank in 1925.');
+
+L.marker([44.1335, -76.320667]).addTo(map)
+  .bindPopup('St Louis: Schooner. Sank in 1914.');
+
+L.marker([44.145483, -76.369833]).addTo(map)
+  .bindPopup('Harvey J Kendall: Freighter. Sank in 1917.');
+
+L.marker([44.236533, -76.2772]).addTo(map)
+  .bindPopup('Holiday Point Wreck: Sailing ship wreck. Sank date unknown.');
+
+L.marker([44.233, -76.20195]).addTo(map)
+  .bindPopup('Julia: Schooner. Sank in 1895.');
+
+L.marker([44.245167, -76.096833]).addTo(map)
+  .bindPopup('Maggie L: Schooner. Sank in 1927.');
+
+L.marker([44.249, -76.071833]).addTo(map)
+  .bindPopup('Dauntless: Yacht. Sank date unknown.');
+
+L.marker([44.259033, -76.046467]).addTo(map)
+  .bindPopup('Raymond: Yacht. Sank date unknown.');
+
+L.marker([44.122833, -76.383667]).addTo(map)
+  .bindPopup('Arizona: Steamer. Sank in 1922.');
+
+L.marker([44.280233, -76.018967]).addTo(map)
+  .bindPopup('A E Vickery: Schooner. Sank in 1889.');
+
+L.marker([44.283467, -76.015883]).addTo(map)
+  .bindPopup('Oconto: Steamer. Sank in 1886.');
