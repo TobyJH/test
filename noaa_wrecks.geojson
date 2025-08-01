@@ -1,1 +1,5426 @@
-
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.8,
+          52.05
+        ]
+      },
+      "properties": {
+        "popup": "HMS Dundalk: A Hunt-class minesweeper that struck a mine and foundered under tow off Harwich. Sunk on 16 October 1940."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.5,
+          51.83
+        ]
+      },
+      "properties": {
+        "popup": "Terukuni Maru: A Japanese ocean liner that struck a German mine off Harwich. Sunk on 19 November 1939."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.72,
+          52.88
+        ]
+      },
+      "properties": {
+        "popup": "HMT Agate: A trawler that ran aground on Haisborough Sands. Sunk on 6 August 1941."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.72,
+          52.9
+        ]
+      },
+      "properties": {
+        "popup": "Alf: A Norwegian barque that ran aground on Haisborough Sands. Sunk on 23 November 1909."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.53,
+          53.03
+        ]
+      },
+      "properties": {
+        "popup": "Cantabria: A Spanish cargo ship sunk by the Spanish Nationalist auxiliary cruiser Nadir northeast of Cromer during the Spanish Civil War. Sunk on 2 November 1938."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.8,
+          52.82
+        ]
+      },
+      "properties": {
+        "popup": "HMT Force: A naval trawler sunk by German aircraft off Winterton Ness. Sunk on 27 June 1941."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.72,
+          52.9
+        ]
+      },
+      "properties": {
+        "popup": "Gallois: A merchant vessel that ran aground on Haisborough Sands. Sunk on 6 August 1941."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.77,
+          52.88
+        ]
+      },
+      "properties": {
+        "popup": "Georgia: An oil tanker that ran aground on Haisborough Sands. Sunk on 20 November 1927."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.78,
+          52.62
+        ]
+      },
+      "properties": {
+        "popup": "Hopelyn: A merchant vessel that stranded on the Scroby Sands. Sunk on 17 October 1922."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.75,
+          52.85
+        ]
+      },
+      "properties": {
+        "popup": "Meriones: A merchant vessel stranded on the wreck of SS Monte Nevoso at Haisborough Sands, then bombed by German aircraft. Sunk on 22 January 1941."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.77,
+          52.85
+        ]
+      },
+      "properties": {
+        "popup": "Monte Nevoso: A merchant vessel that ran aground on Haisborough Sands. Sunk on 14 October 1932."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.93,
+          53.18
+        ]
+      },
+      "properties": {
+        "popup": "Mount Ida: A merchant vessel that ran aground on Ower Bank. Sunk on 9 October 1939."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.1,
+          53.15
+        ]
+      },
+      "properties": {
+        "popup": "HMS Umpire: A U-class submarine that collided with Peter Hendriks off Blakeney. Sunk on 19 July 1941."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.07,
+          52.5
+        ]
+      },
+      "properties": {
+        "popup": "HMS Exmoor: A Hunt-class destroyer attacked by E-boats and capsized off Lowestoft. Sunk on 25 February 1941."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.95,
+          52.33
+        ]
+      },
+      "properties": {
+        "popup": "Gasfire: A steam collier sunk by a mine east of Southwold. Sunk on 21 June 1941."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.75,
+          52.14
+        ]
+      },
+      "properties": {
+        "popup": "Golconda: A passenger ship that struck a mine and sank 5 nautical miles southeast of Aldeburgh. Sunk on 3 June 1916."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.72,
+          52.18
+        ]
+      },
+      "properties": {
+        "popup": "Magdapur: A cargo ship that struck a mine off Thorpeness. Sunk on 10 September 1939."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.72,
+          52.15
+        ]
+      },
+      "properties": {
+        "popup": "Phryn\u00e9: A cargo ship that was sunk by a mine off Aldeburgh. Sunk on 24 September 1939."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.03,
+          52.43
+        ]
+      },
+      "properties": {
+        "popup": "U-13: A Type IIB U-boat sunk by HMS Weston southeast of Lowestoft. Sunk on 31 May 1940."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.180278,
+          54.658056
+        ]
+      },
+      "properties": {
+        "popup": "Seaton Carew Wreck: A protected wreck lying in the intertidal zone at Seaton Carew."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.604167,
+          55.646111
+        ]
+      },
+      "properties": {
+        "popup": "Abessinia: A German steamer wrecked on the Farne Islands. Sunk on 3 September 1921."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.485722,
+          55.6209
+        ]
+      },
+      "properties": {
+        "popup": "HMS Ascot: A Racecourse-class minesweeper torpedoed by UB-67 off the Farne Islands. Sunk on 10 November 1918."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3,
+          55.333333
+        ]
+      },
+      "properties": {
+        "popup": "Don: A cargo ship torpedoed by U-9 east of Coquet Island. Sunk on 8 May 1915."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.619111,
+          55.639389
+        ]
+      },
+      "properties": {
+        "popup": "Forfarshire: A paddlesteamer that foundered on the Farne Islands. Sunk on 7 September 1838."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.589,
+          55.452
+        ]
+      },
+      "properties": {
+        "popup": "HMS G11: A G-class submarine that ran aground near Howick. Sunk on 22 November 1918."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.374,
+          55.241
+        ]
+      },
+      "properties": {
+        "popup": "UB-115: A Type UB III U-boat sunk by British forces off Newton-by-the-Sea. Sunk on 29 September 1918."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.316667,
+          55.216667
+        ]
+      },
+      "properties": {
+        "popup": "HMS Unity: A U-class submarine that collided with Atle Jarl off Blyth. Sunk on 29 April 1940."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.300833,
+          54.917
+        ]
+      },
+      "properties": {
+        "popup": "Hebble: A cargo ship sunk by a mine east of Roker. Sunk on 6 May 1917."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.395556,
+          55.000833
+        ]
+      },
+      "properties": {
+        "popup": "Oslofjord: An ocean liner that hit a mine off South Shields. Sunk on 1 December 1940."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.052444,
+          53.873182
+        ]
+      },
+      "properties": {
+        "popup": "Riverdance: A RO-RO ferry that ran aground on Blackpool beach and was finally scrapped in place after refloating attempts failed. Sunk on 31 January 2008."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.1206322,
+          53.5470396
+        ]
+      },
+      "properties": {
+        "popup": "Ionic Star: A Blue Star Line cargo ship crashed on the mad wharf sandbank on a journey from Rio to Liverpool. Sunk in 1939."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.524281,
+          50.846899
+        ]
+      },
+      "properties": {
+        "popup": "Amsterdam: A Dutch East India Company ship that ran aground near Hastings. The wreck site is protected. Sunk on 26 January 1749."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.291,
+          50.655
+        ]
+      },
+      "properties": {
+        "popup": "HMS Ariadne: A Diadem-class cruiser torpedoed off Beachy Head by German submarine UC-65. Sunk on 26 July 1917."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.248,
+          50.729
+        ]
+      },
+      "properties": {
+        "popup": "HMS Holland 5: A Holland-class submarine that foundered off Beachy Head while under tow to be scrapped. Sunk on 8 August 1912."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.478222,
+          50.387583
+        ]
+      },
+      "properties": {
+        "popup": "RMS Moldavia: An armed merchantman torpedoed off Beachy Head by UB-57. Sunk on 23 May 1918."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.24,
+          50.719
+        ]
+      },
+      "properties": {
+        "popup": "Sitakund: A Norwegian motor tanker that exploded off the coast of Eastbourne. Sunk on 20 October 1968."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.25,
+          50.7
+        ]
+      },
+      "properties": {
+        "popup": "U-40: A German submarine sunk by a mine off Eastbourne. Sunk on 13 October 1939."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.02,
+          50.35
+        ]
+      },
+      "properties": {
+        "popup": "U-413: A German submarine sunk by a mine 15 nautical miles south of Brighton. Sunk on 20 August 1944."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.45,
+          50.517
+        ]
+      },
+      "properties": {
+        "popup": "UC-65: A German minelaying submarine torpedoed by HMS C15 off Eastbourne. Sunk on 3 November 1917."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.6167,
+          50.7167
+        ]
+      },
+      "properties": {
+        "popup": "Wittering: A British cargo ship sunk after a collision 11.5 nautical miles off Beachy Head. Sunk on 25 February 1976."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.039444,
+          50.742778
+        ]
+      },
+      "properties": {
+        "popup": "HMS Invincible: A ship of the line that ran aground in the East Solent. Sunk in February 1758."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.106667,
+          50.799722
+        ]
+      },
+      "properties": {
+        "popup": "Mary Rose: A Tudor warship sunk in Portsmouth Harbour, possibly during an engagement with the French fleet. Now a protected wrecksite. Sunk on 19 July 1545."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.04,
+          50.6
+        ]
+      },
+      "properties": {
+        "popup": "HMS Boxer: An Ardent-class destroyer that collided with SS St Patrick off Culver Down. Sunk on 8 February 1918."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.683333,
+          50.15
+        ]
+      },
+      "properties": {
+        "popup": "HMS Loyalty: An Algerine-class minesweeper sunk by U-480. Sunk on 22 August 1944."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.55,
+          50.466667
+        ]
+      },
+      "properties": {
+        "popup": "Mendi: A troopship rammed by Darro, with the loss of 646 lives. Sunk on 21 February 1917."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.55,
+          50.287778
+        ]
+      },
+      "properties": {
+        "popup": "U-1195: A German submarine sunk by HMS Watchman. Sunk on 7 April 1945."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.736111,
+          50.367778
+        ]
+      },
+      "properties": {
+        "popup": "U-480: A German submarine sunk by a mine. Sunk on February 1945."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.740833,
+          50.556111
+        ]
+      },
+      "properties": {
+        "popup": "UB-81: A German submarine that struck a mine and then collided with a patrol boat. Sunk on 2 December 1917."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.6,
+          52.183333
+        ]
+      },
+      "properties": {
+        "popup": "HMS Amphion: An Active-class scout cruiser sunk by a mine laid by SS K\u00f6nigin Luise. Sunk on 6 August 1914."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.2875,
+          51.018056
+        ]
+      },
+      "properties": {
+        "popup": "HMS Brazen: A B-class destroyer sunk by German dive bombers off Folkestone. Sunk on 20 July 1940."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.65,
+          51.416667
+        ]
+      },
+      "properties": {
+        "popup": "HMS Codrington: An A-class destroyer bombed whilst in dock at Dover. Sunk on 27 July 1940."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.25,
+          51.035
+        ]
+      },
+      "properties": {
+        "popup": "Preu\u00dfen: A five-masted windjammer that was rammed by SS Brighton, and subsequently driven onto rocks off the coast of Dover. Sunk on 6 November 1910."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.316667,
+          50.9
+        ]
+      },
+      "properties": {
+        "popup": "The Queen: A steamship torpedoed by German destroyer S60 off the Varne Bank. Sunk on 26 October 1916."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.258056,
+          51.051111
+        ]
+      },
+      "properties": {
+        "popup": "Unity: A cargo ship that was torpedoed by UB-57 about 9 nautical miles southeast of Folkestone. Sunk on 2 May 1918."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.5,
+          51.1667
+        ]
+      },
+      "properties": {
+        "popup": "UB-33: A German submarine that struck a mine off the Varne Bank. Sunk on 11 April 1918."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.3333,
+          51.0
+        ]
+      },
+      "properties": {
+        "popup": "UB-55: A Type UB III U-boat that was sunk by a mine. Sunk on 22 April 1918."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.35,
+          51.0
+        ]
+      },
+      "properties": {
+        "popup": "UB-56: A Type UB III U-boat that was sunk by a mine. Sunk on 19 December 1917."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.2333,
+          50.9667
+        ]
+      },
+      "properties": {
+        "popup": "UB-58: A Type UB III U-boat that was sunk by a mine. Sunk on 10 March 1918."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.3833,
+          50.9667
+        ]
+      },
+      "properties": {
+        "popup": "UC-50: A German minelaying submarine sunk by HMS Zubian off Dungeness. Sunk on 4 February 1918."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.3833,
+          50.9667
+        ]
+      },
+      "properties": {
+        "popup": "UC-64: A German minelaying submarine sunk by a mine off the Varne Bank. Sunk on 20 June 1918."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.4481,
+          51.3556
+        ]
+      },
+      "properties": {
+        "popup": "HMS Venetia: A V-class destroyer that was sunk by a mine 12 nautical miles northeast of Margate. Sunk on 19 October 1940."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.501389,
+          51.245833
+        ]
+      },
+      "properties": {
+        "popup": "Mahratta (1892): A steamship that ran aground and broke in two. Sunk on 9 April 1909."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.501389,
+          51.245833
+        ]
+      },
+      "properties": {
+        "popup": "Mahratta (1917): A steamship that ran aground and broke in two. Sunk on 9 October 1939."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.501389,
+          51.245833
+        ]
+      },
+      "properties": {
+        "popup": "Mary White: A brig that became stranded in rough weather. Sunk on 6 March 1851."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.500278,
+          51.338056
+        ]
+      },
+      "properties": {
+        "popup": "HMS Northumberland: A third-rate ship of the line wrecked in the Great Storm of 1703, with 220 deaths. Sunk on 27 November 1703."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.500833,
+          51.261667
+        ]
+      },
+      "properties": {
+        "popup": "HMS Restoration: A third-rate ship of the line wrecked in the Great Storm of 1703, with 387 deaths. Sunk on 27 November 1703."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.575556,
+          51.274167
+        ]
+      },
+      "properties": {
+        "popup": "Rooswijk: An East Indiaman wrecked in a heavy storm with the loss of all hands. The wreck was discovered in 2004. Sunk on 19 December 1739."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.5078,
+          51.2735
+        ]
+      },
+      "properties": {
+        "popup": "HMS Stirling Castle: A third-rate ship of the line wrecked in the Great Storm of 1703. Sunk on 27 November 1703."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.466667,
+          51.15
+        ]
+      },
+      "properties": {
+        "popup": "U-16: A German submarine that ran aground while under attack from HMS Puffin and HMS Cayton Wyke. Sunk on 25 October 1939."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.65,
+          51.116667
+        ]
+      },
+      "properties": {
+        "popup": "UC-46: A German minelaying submarine sunk by HMS Liberty. Sunk on 8 February 1917."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.0,
+          51.383333
+        ]
+      },
+      "properties": {
+        "popup": "UC-63: A German minelaying submarine torpedoed by HMS E52. Sunk on 1 November 1917."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.020833,
+          51.507778
+        ]
+      },
+      "properties": {
+        "popup": "HMT Amethyst: A naval trawler sunk in the Thames Estuary. Sunk on 24 November 1940."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.103056,
+          51.510833
+        ]
+      },
+      "properties": {
+        "popup": "The Blackfriar I: A small sailing ship discovered in Blackfriars along the banks of the Thames. Sunk in the 2nd century (probable)."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.739722,
+          51.496667
+        ]
+      },
+      "properties": {
+        "popup": "HMS London: A second-rate ship of the line that accidentally exploded in the Thames Estuary, killing 300 crewmen. Sunk on 7 March 1665."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.090278,
+          51.510833
+        ]
+      },
+      "properties": {
+        "popup": "Princess Alice: A paddle steamer that collided with Bywell Castle near North Woolwich, with over 650 deaths. Sunk on 3 September 1873."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.786111,
+          51.466111
+        ]
+      },
+      "properties": {
+        "popup": "Richard Montgomery: A Liberty ship that ran aground off the Nore in the Thames Estuary with over a thousand tons of explosives on board. A protected wreck site, designated as dangerous. Sunk on 20 August 1944."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.24,
+          50.719444
+        ]
+      },
+      "properties": {
+        "popup": "HMS Ariadne: A Diadem-class cruiser torpedoed off Beachy Head by UC-65. Sunk on 26 July 1917."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.248056,
+          50.729167
+        ]
+      },
+      "properties": {
+        "popup": "HMS Holland 5: A Holland-class submarine that foundered off Beachy Head while under tow to be scrapped. Sunk on 8 August 1912."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.264444,
+          50.3875
+        ]
+      },
+      "properties": {
+        "popup": "RMS Moldavia: An armed merchantman torpedoed off Beachy Head by UB-57. Sunk on 23 May 1918."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.24,
+          50.730833
+        ]
+      },
+      "properties": {
+        "popup": "Sitakund: A Norwegian motor tanker that exploded off the coast of Eastbourne. Sunk on 20 October 1968."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.24,
+          50.719444
+        ]
+      },
+      "properties": {
+        "popup": "Storaa: A British coaster sunk by a German torpedo near Hastings. Sunk on 3 November 1943."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.25,
+          50.7
+        ]
+      },
+      "properties": {
+        "popup": "U-40: A German submarine sunk by a mine off Eastbourne. Sunk on 13 October 1939."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.016667,
+          50.35
+        ]
+      },
+      "properties": {
+        "popup": "U-413: A German submarine sunk by a mine 15 nautical miles south of Brighton. Sunk on 20 August 1944."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.45,
+          50.516667
+        ]
+      },
+      "properties": {
+        "popup": "UC-65: A German minelaying submarine torpedoed by HMS C15 off Eastbourne. Sunk on 3 November 1917."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.616944,
+          50.716111
+        ]
+      },
+      "properties": {
+        "popup": "Wittering: A British cargo ship sunk after a collision, 11.5 nautical miles off Beachy Head. Attended by Hastings Lifeboat. Sunk on 25 February 1976."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.9213,
+          50.7425
+        ]
+      },
+      "properties": {
+        "popup": "HMS A1 (1911): An A-class submarine sunk off Bracklesham Bay."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.965,
+          50.4917
+        ]
+      },
+      "properties": {
+        "popup": "HMS Empress of India (4 November 1914): A battleship sunk as a target in Lyme Bay."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.4481,
+          50.6219
+        ]
+      },
+      "properties": {
+        "popup": "Alexander (27 March 1815): An East Indiaman driven ashore in a storm at Wyke Regis."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.431,
+          50.5725
+        ]
+      },
+      "properties": {
+        "popup": "SS Athen (1911): A German merchant ship that collided with SS Thor off Portland Bill."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.4856,
+          50.5664
+        ]
+      },
+      "properties": {
+        "popup": "SS Binnendijk (8 October 1939): A Dutch cargo ship that struck a mine and sank off Portland Bill."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.4483,
+          50.5711
+        ]
+      },
+      "properties": {
+        "popup": "HMS Bittern (4 April 1918): An Avon-class destroyer that collided with SS Kenilworth off the Isle of Portland."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.4639,
+          50.4704
+        ]
+      },
+      "properties": {
+        "popup": "HMS Boadicea (13 June 1944): A B-class destroyer sunk by aerial torpedoes dropped by Junkers Ju 88 dive bombers off the Isle of Portland."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.4336,
+          50.5736
+        ]
+      },
+      "properties": {
+        "popup": "HMS Delight (29 July 1940): A D-class destroyer sunk by German dive bombers off the Isle of Portland."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.4602,
+          50.6112
+        ]
+      },
+      "properties": {
+        "popup": "Earl of Abergavenny (5 February 1805): An East Indiaman sunk in Weymouth Bay."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.4194,
+          50.577
+        ]
+      },
+      "properties": {
+        "popup": "HMS Foylebank (5 July 1940): A merchant ship converted into an anti-aircraft ship, sunk by German Stuka off the Isle of Portland."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.4211,
+          50.5692
+        ]
+      },
+      "properties": {
+        "popup": "HMS Hood (4 November 1914): A pre-dreadnought battleship sunk as a blockship in Portland Harbour."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.5933,
+          50.5633
+        ]
+      },
+      "properties": {
+        "popup": "HMS Invincible (17 September 1914): An Audacious-class battleship that sank in a storm off Portland Bill."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.9495,
+          50.5908
+        ]
+      },
+      "properties": {
+        "popup": "SS Kyarra (5 May 1918): A luxury liner sunk by German submarine UB-57 near Swanage."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.6297,
+          50.375
+        ]
+      },
+      "properties": {
+        "popup": "HMS L24 (10 January 1924): An L-class submarine that collided with HMS Resolution off Portland Bill."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.7269,
+          50.4542
+        ]
+      },
+      "properties": {
+        "popup": "USS LST-507 (28 April 1944): A tank landing ship sunk by German E-boats off the Isle of Portland."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.0806,
+          50.5704
+        ]
+      },
+      "properties": {
+        "popup": "SS Radaas (21 September 1917): A Danish steamship sunk by UB-40 off Portland Bill."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.0483,
+          50.4261
+        ]
+      },
+      "properties": {
+        "popup": "HMS Safari (8 January 1946): An S-class submarine that sunk while under tow to be scrapped."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.4283,
+          50.6239
+        ]
+      },
+      "properties": {
+        "popup": "HMS Sidon (14 June 1957): An S-class submarine that sunk in Portland Harbour on 16 June 1955 following an explosion. It was later raised and sunk as a target off Weymouth."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.0825,
+          50.7186
+        ]
+      },
+      "properties": {
+        "popup": "Swash Channel Wreck (Unknown): The remains of a 17th-century armed merchantman wrecked outside Poole Harbour."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.4333,
+          50.425
+        ]
+      },
+      "properties": {
+        "popup": "U-322 (19 December 1944): A Type VIIC U-boat that was sunk by HMCS Calgary south of Weymouth."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.4216,
+          50.61
+        ]
+      },
+      "properties": {
+        "popup": "HMS Warrior (11 July 1940): A steam yacht bombed off the Isle of Portland."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2577,
+          49.9545
+        ]
+      },
+      "properties": {
+        "popup": "HMS Association (22 October 1707): A second rate ship of the line wrecked in the Scilly naval disaster of 1707, with about 800 dead."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2871,
+          49.8806
+        ]
+      },
+      "properties": {
+        "popup": "HMS Colossus (10 December 1798): A protected wreck site, broke anchor and ran aground off Samson."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.3078,
+          49.935
+        ]
+      },
+      "properties": {
+        "popup": "SS Dundee (2 September 1917): A steam passenger and cargo ship sunk by German submarine UC-49."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.3089,
+          49.8594
+        ]
+      },
+      "properties": {
+        "popup": "HMS Eagle (22 October 1707): A third rate ship of the line wrecked in the Scilly naval disaster of 1707."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2577,
+          49.9561
+        ]
+      },
+      "properties": {
+        "popup": "PS Earl of Arran (16 July 1872): A passenger ship that was wrecked off the Eastern Isles."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.3433,
+          49.8889
+        ]
+      },
+      "properties": {
+        "popup": "HMS Firebrand (22 October 1707): A fireship wrecked in the Scilly naval disaster of 1707."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2528,
+          49.9033
+        ]
+      },
+      "properties": {
+        "popup": "Hollandia (13 June 1743): An East Indiaman wrecked off the island of Annet with 276 deaths."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2167,
+          49.3833
+        ]
+      },
+      "properties": {
+        "popup": "USS Jacob Jones (6 December 1917): A Tucker-class destroyer torpedoed by German submarine U-53."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.5472,
+          49.991
+        ]
+      },
+      "properties": {
+        "popup": "HMS K5 (20 January 1921): A K-class submarine that sank en route to a mock battle."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.348,
+          49.927
+        ]
+      },
+      "properties": {
+        "popup": "SS Little Western (6 October 1872): A passenger ship that was wrecked on a reef off Samson."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.319,
+          49.93
+        ]
+      },
+      "properties": {
+        "popup": "Minnehaha (18 January 1874): A barque wrecked off Peninnis Head."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2914,
+          49.9528
+        ]
+      },
+      "properties": {
+        "popup": "Nancy (February 1784): A packet ship that ran aground on the Western Rocks."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.358,
+          49.927
+        ]
+      },
+      "properties": {
+        "popup": "Rachel Harvey (1 October 1999): A fishing vessel that struck rocks off Peninnis Head."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.3189,
+          49.9442
+        ]
+      },
+      "properties": {
+        "popup": "HMS Romney (26 October 1707): A fourth-rate ship of the line wrecked in the Scilly naval disaster of 1707."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.3764,
+          49.8706
+        ]
+      },
+      "properties": {
+        "popup": "SS Schiller (7 May 1875): A German ocean liner wrecked on the Retarrier Ledges, with 335 deaths."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.3397,
+          49.9347
+        ]
+      },
+      "properties": {
+        "popup": "SS Thames (4 January 1841): An Irish steamship that ran aground on Cribewidden Rock."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.3819,
+          49.8939
+        ]
+      },
+      "properties": {
+        "popup": "Thomas W. Lawson (14 December 1907): An American schooner wrecked off the island of Annet, spilling 58,000 barrels of kerosene."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.5167,
+          49.6833
+        ]
+      },
+      "properties": {
+        "popup": "UC-19 (6 December 1916): A German minelaying submarine sunk by HMS Ariel."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.276,
+          49.945
+        ]
+      },
+      "properties": {
+        "popup": "Wheel Wreck (Unknown): An unidentified shipwreck located off Little Ganinick, believed to date from around 1835."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.1433,
+          54.6856
+        ]
+      },
+      "properties": {
+        "popup": "SS Empire Bay (15 January 1942): A collier that was bombed by German aircraft off Middlesbrough."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.075,
+          53.9825
+        ]
+      },
+      "properties": {
+        "popup": "HMS Falmouth (19 August 1916): A Town-class cruiser sunk by U-63 off Hornsea."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.4833,
+          54.5
+        ]
+      },
+      "properties": {
+        "popup": "SS Lanthorn (21 May 1917): A cargo ship that was sunk by UB-41 off Whitby."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.4696,
+          54.4795
+        ]
+      },
+      "properties": {
+        "popup": "SS Saint Ninian (7 February 1917): A cargo ship that was torpedoed by UB-48 off Whitby."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.7614,
+          53.7625
+        ]
+      },
+      "properties": {
+        "popup": "MS Pi\u0142sudski (26 November 1939): A Polish ocean liner sunk off Grimsby."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.6461,
+          54.4575
+        ]
+      },
+      "properties": {
+        "popup": "SS Rohilla (30 October 1914): A steamship that struck a reef near Whitby."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.116,
+          51.351
+        ]
+      },
+      "properties": {
+        "popup": "SS Bengrove (7 March 1915): A collier torpedoed by German submarine U-20."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.317,
+          50.667
+        ]
+      },
+      "properties": {
+        "popup": "USCGC Tampa (26 September 1918): A cutter that was torpedoed by German submarine UB-91."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.913,
+          51.406
+        ]
+      },
+      "properties": {
+        "popup": "SS Staghound (27 March 1942): Distilling ship bombed off Devon coast; salvaged and towed to Woodspring Bay for trials and target practice."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.907,
+          51.407
+        ]
+      },
+      "properties": {
+        "popup": "SS Fernwood (18 September 1942): A collier hit by bombs off Dartmouth; towed to Woodspring Bay, near Weston, for trials and target practice. The MOD base at St Thomas Head used the vessel for trials after WW2."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.307,
+          50.329
+        ]
+      },
+      "properties": {
+        "popup": "HMS A7 (16 January 1914): An A-class submarine that sank in Whitsand Bay."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.183,
+          49.964
+        ]
+      },
+      "properties": {
+        "popup": "Adolf Vinnen (9 February 1923): A barquentine that was driven ashore at Bass Point."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.569,
+          50.583
+        ]
+      },
+      "properties": {
+        "popup": "Caledonia (7 September 1842): A brig that was wrecked near Morwenstow."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.367,
+          49.917
+        ]
+      },
+      "properties": {
+        "popup": "SS Corvus (27 February 1945): A steam merchant that was torpedoed by U-1018 off Lizard Point."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.706,
+          50.237
+        ]
+      },
+      "properties": {
+        "popup": "SS Eastfield (27 November 1917): A steamship torpedoed by U-boat UB-57 off Mevagissey."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.167,
+          50.266
+        ]
+      },
+      "properties": {
+        "popup": "HMS Foyle (15 March 1917): A River-class destroyer that struck a mine southeast of the Rame Peninsula."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.239,
+          50.564
+        ]
+      },
+      "properties": {
+        "popup": "SS James Eagan Layne (21 March 1945): A Liberty ship, situated in 22 metres (72 ft) of water in Whitsand Bay next to the wreck of HMS Scylla."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.333,
+          49.75
+        ]
+      },
+      "properties": {
+        "popup": "HMCS Regina (8 August 1944): A Flower-class corvette that was torpedoed by U-667 north of Trevose Head."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.924389,
+          50.594556
+        ]
+      },
+      "properties": {
+        "popup": "Maria Asumpta (30 May 1995): A brig that struck rocks at Rump Point."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.287,
+          50.05
+        ]
+      },
+      "properties": {
+        "popup": "St Anthony (aka Santo Ant\u00f3nio) (15 January 1527): A Portuguese carrack that foundered in Gunwalloe Bay."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.293,
+          50.017
+        ]
+      },
+      "properties": {
+        "popup": "SS Persier (11 February 1945): A cargo ship that was torpedoed by U-1017 off the Eddystone Rocks."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.487,
+          49.967
+        ]
+      },
+      "properties": {
+        "popup": "U-1018 (27 February 1945): A Type VIIC/41 U-boat that was sunk by HMS Loch Fada in the English Channel."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.194,
+          50.563
+        ]
+      },
+      "properties": {
+        "popup": "HMS Victory (4 October 1744): A first-rate ship of the line that was lost in a storm, and discovered in 2009 near Salcombe."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.039,
+          50.297
+        ]
+      },
+      "properties": {
+        "popup": "HMS Amethyst (15 February 1811): A frigate that served in the French Revolutionary Wars and the Napoleonic Wars, eventually blown ashore at Mount Batten."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.175,
+          50.295
+        ]
+      },
+      "properties": {
+        "popup": "HMS Formidable (1 January 1915): A Formidable-class battleship sunk off Start Point by German submarine U-24."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.177,
+          50.313
+        ]
+      },
+      "properties": {
+        "popup": "HMS Foyle (15 March 1917): A River-class destroyer that struck a mine in the Strait of Dover but sank while under tow to Plymouth."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.127,
+          50.315
+        ]
+      },
+      "properties": {
+        "popup": "Herzogin Cecilie (18 January 1939): A German-built barque that was beached at the Kingsbridge Estuary and later capsized."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.307,
+          50.261
+        ]
+      },
+      "properties": {
+        "popup": "HMS Penylan (3 December 1942): A Hunt-class destroyer sunk by E-boats off Start Point."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.598,
+          50.243
+        ]
+      },
+      "properties": {
+        "popup": "SS Persier (11 February 1945): A cargo ship that was torpedoed by U-1017 off the Eddystone Rocks."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.208,
+          50.183
+        ]
+      },
+      "properties": {
+        "popup": "SS Maine (21 November 1917): A steamship torpedoed by UC-17 off Dartmouth."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.219,
+          50.15
+        ]
+      },
+      "properties": {
+        "popup": "MV Ice Prince (15 January 2008): A cargo ship that sank in the English Channel."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.323,
+          50.126
+        ]
+      },
+      "properties": {
+        "popup": "HMS M2 (26 January 1932): A British aircraft-carrying submarine shipwrecked in Lyme Bay."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.241,
+          50.166
+        ]
+      },
+      "properties": {
+        "popup": "HMS M1 (12 November 1925): An M-class submarine that collided with the SS Vidar in the English Channel."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.547,
+          50.32
+        ]
+      },
+      "properties": {
+        "popup": "HMS Scylla (27 March 2004): A type F71 Frigate sunk to create an artificial reef for divers and marine life by the National Marine Aquarium."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.207,
+          55.298
+        ]
+      },
+      "properties": {
+        "popup": "HMS Drake (2 October 1917): Torpedoed by U-79 in Rathlin Sound."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.5043,
+          55.2462
+        ]
+      },
+      "properties": {
+        "popup": "Girona (26 October 1588): Foundered and sank off Lacada Point, County Antrim."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.993,
+          54.06
+        ]
+      },
+      "properties": {
+        "popup": "Tullaghmurray Lass (February 2002): A Kilkeel fishing boat that sank after a gas explosion."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.3333,
+          56.6
+        ]
+      },
+      "properties": {
+        "popup": "RMS Aurania (4 February 1918): An ocean liner that was torpedoed by UB-67 off the coast of Ireland."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.5333,
+          56.0833
+        ]
+      },
+      "properties": {
+        "popup": "Avondale Park (7 May 1945): A cargo ship that was sunk by U-2336 south of the Isle of May."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.4167,
+          56.475
+        ]
+      },
+      "properties": {
+        "popup": "Breda (23 December 1940): Dutch cargo ship, sunk by two German Heinkel He 111 bomber aircraft in Ardmucknish Bay off Oban."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.05,
+          58.8922
+        ]
+      },
+      "properties": {
+        "popup": "SMS C\u00f6ln (21 June 1919): A C\u00f6ln-class cruiser that was among the 74 ships scuttled in Scapa Flow by Admiral Reuter."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.6957,
+          56.5064
+        ]
+      },
+      "properties": {
+        "popup": "HMS Dartmouth (9 October 1690): A frigate wrecked in the Sound of Mull."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.0017,
+          55.6106
+        ]
+      },
+      "properties": {
+        "popup": "HMS Dasher (27 March 1943): Aircraft carrier sunk by a major internal explosion. Lies in the Clyde estuary."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.9139,
+          56.2778
+        ]
+      },
+      "properties": {
+        "popup": "HMS Graph (20 March 1944): Formerly the German U-boat U-570. Captured and taken into Royal Navy service in 1942, she ran aground and was wrecked on Islay in 1944."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9833,
+          56.5667
+        ]
+      },
+      "properties": {
+        "popup": "Hispania (18 December 1954): A Swedish steamboat that struck rocks in the Sound of Mull."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9,
+          58.5678
+        ]
+      },
+      "properties": {
+        "popup": "HMS Hampshire (5 June 1916): British armoured cruiser that struck a naval mine off Orkney."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9833,
+          58.5667
+        ]
+      },
+      "properties": {
+        "popup": "HMS Royal Oak (14 October 1939): A Revenge-class battleship torpedoed in Scapa Flow by U-47, with 833 deaths."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.9344,
+          55.1858
+        ]
+      },
+      "properties": {
+        "popup": "Valkyrie II (5 July 1894): A cutter that collided with Satanita on the Firth of Clyde."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.3333,
+          55.7167
+        ]
+      },
+      "properties": {
+        "popup": "HMS Vandal (24 February 1943): A U-class submarine sunk off Lochranza four days after commissioning."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.9417,
+          55.1833
+        ]
+      },
+      "properties": {
+        "popup": "Varyag (1925): A Russian protected cruiser that ran aground and sank in the Firth of Clyde."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.65,
+          57.2517
+        ]
+      },
+      "properties": {
+        "popup": "U-1206 (14 April 1945): A Type VIIC U-boat that sprung a leak and sank off Cruden Bay, Aberdeenshire."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.9167,
+          57.155
+        ]
+      },
+      "properties": {
+        "popup": "U-722 (27 March 1945): A Type VIIC U-boat that was sunk in the Sea of the Hebrides by HMS Fitzroy, HMS Redmill, and HMS Byron."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.1167,
+          52.7167
+        ]
+      },
+      "properties": {
+        "popup": "Behar (24 November 1940): A 6,100-ton steamer sunk by a magnetic parachute mine in Milford Haven, Pembrokeshire."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.5981,
+          53.4175
+        ]
+      },
+      "properties": {
+        "popup": "Castilian (12 February 1943): A cargo ship that ran aground off The Skerries, Anglesey."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.541,
+          52.52
+        ]
+      },
+      "properties": {
+        "popup": "Diamond (2 January 1825): A three-masted square rigger with a composite hull, lost in Cardigan Bay."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.1667,
+          51.6833
+        ]
+      },
+      "properties": {
+        "popup": "Empire Beacon (5 April 1942): A coastal trading vessel that struck a mine off Pembrokeshire."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.849,
+          53.371
+        ]
+      },
+      "properties": {
+        "popup": "Lelia (14 January 1865): A steamship that sank in a storm off the Great Orme."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.5833,
+          53.4167
+        ]
+      },
+      "properties": {
+        "popup": "Ocean Monarch (25 August 1848): A barque that caught fire and sank northeast of Llandudno."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.3749,
+          51.7332
+        ]
+      },
+      "properties": {
+        "popup": "Paul (30 October 1925): A four-masted windjammer wrecked on the Cefn Sidan sands."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.5536,
+          53.3961
+        ]
+      },
+      "properties": {
+        "popup": "Resurgam II (25 February 1880): A protected wrecksite near Rhyl."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0083,
+          53.2833
+        ]
+      },
+      "properties": {
+        "popup": "Rothsay Castle (18 August 1831): A paddle steamer that ran aground and broke up at the eastern end of the Menai Strait."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.235,
+          53.354
+        ]
+      },
+      "properties": {
+        "popup": "Royal Charter (26 October 1859): A steam clipper driven onto rocks near Moelfre, Anglesey."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7406,
+          51.5003
+        ]
+      },
+      "properties": {
+        "popup": "Samtampa (23 April 1947): A steamship wrecked off Sker Point."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.35,
+          51.5333
+        ]
+      },
+      "properties": {
+        "popup": "U-58 (17 November 1917): A Type U 57 U-boat sunk by USS Fanning in the action of 17 November 1917."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.4814,
+          51.7308
+        ]
+      },
+      "properties": {
+        "popup": "Walter L M Russ (15 July 1945): A German cargo ship captured by the Allies and ran aground on Grassholm."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.6781,
+          52.2797
+        ]
+      },
+      "properties": {
+        "popup": "HMS Whirlwind (29 October 1974): A W-class destroyer sunk as a target in Cardigan Bay."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.799997,
+          12.033333
+        ]
+      },
+      "properties": {
+        "popup": "USS Indianapolis (CA-35): Heavy cruiser. Sank in 1945."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -16.2,
+          48.1
+        ]
+      },
+      "properties": {
+        "popup": "KMS Bismarck: German battleship. Sank in 1941."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.9187,
+          27.8085
+        ]
+      },
+      "properties": {
+        "popup": "SS Thistlegorm: British armed freighter. Sank in 1941."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.8388,
+          50.7176
+        ]
+      },
+      "properties": {
+        "popup": "Unknown ship: Unknown wreck. Sank date unknown."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.0895271,
+          44.2705644
+        ]
+      },
+      "properties": {
+        "popup": "Grindstone Island Cars: Scuttled railcars. Sank in 1953."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.9625,
+          41.586111
+        ]
+      },
+      "properties": {
+        "popup": "SS Pendleton: T2 tanker. Sank in 1952."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.212425,
+          11.593461
+        ]
+      },
+      "properties": {
+        "popup": "Nineveh: Clipper ship. Sank in 1867."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.9646171,
+          46.7405831
+        ]
+      },
+      "properties": {
+        "popup": "John B. Cowle: Freighter. Sank in 1909."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -11.6333332,
+          -5.0833331
+        ]
+      },
+      "properties": {
+        "popup": "RMS Laconia: Ocean liner. Sank in 1942."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.5075612,
+          34.7624611
+        ]
+      },
+      "properties": {
+        "popup": "U-576: German submarine. Sank in 1942."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.5049611,
+          34.7621111
+        ]
+      },
+      "properties": {
+        "popup": "SS Bluefields: Nicaraguan merchant. Sank in 1942."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          128.0666671,
+          30.3666671
+        ]
+      },
+      "properties": {
+        "popup": "Japanese Battleship Yamato: Battleship. Sank in 1945."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.4213001,
+          55.0729001
+        ]
+      },
+      "properties": {
+        "popup": "MV Wilhelm Gustloff: German liner. Sank in 1939."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.625444,
+          -19.304417
+        ]
+      },
+      "properties": {
+        "popup": "SS Yongala: Passenger ship. Sank in 1911."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -14.1804422,
+          28.3460771
+        ]
+      },
+      "properties": {
+        "popup": "SS America: Passenger liner (wreck). Sank in 1994."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.0333331,
+          45.05
+        ]
+      },
+      "properties": {
+        "popup": "SS Isaac M. Scott: Freighter. Sank in 1913."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.6882422,
+          54.7628051
+        ]
+      },
+      "properties": {
+        "popup": "SS Chirripo: Cargo steamer. Sank in 1917."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          98.643317,
+          7.802467
+        ]
+      },
+      "properties": {
+        "popup": "King Cruiser Wreck: Car ferry. Sank in 1997."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.110167,
+          46.9985
+        ]
+      },
+      "properties": {
+        "popup": "SS Edmund Fitzgerald: Ore carrier. Sank in 1975."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -132.108964,
+          54.976711
+        ]
+      },
+      "properties": {
+        "popup": "MV Vashon: Car ferry. Sank in 1986."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          166.709444,
+          -8.639722
+        ]
+      },
+      "properties": {
+        "popup": "USS Hornet (CV-8): Aircraft carrier. Sank in 1943."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.006167,
+          41.5323
+        ]
+      },
+      "properties": {
+        "popup": "Craftsman: Freighter. Sank in 1958."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.976617,
+          41.5886
+        ]
+      },
+      "properties": {
+        "popup": "John Pridgeon: Barge. Sank in 1909."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.958667,
+          41.57385
+        ]
+      },
+      "properties": {
+        "popup": "Sand Merchant: Bulk carrier. Sank in 1936."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.934667,
+          41.550117
+        ]
+      },
+      "properties": {
+        "popup": "Schooner - unknown: Schooner. Sank date unknown."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.921333,
+          41.564167
+        ]
+      },
+      "properties": {
+        "popup": "Two Fannies: Schooner. Sank in 1890."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.883283,
+          41.5309
+        ]
+      },
+      "properties": {
+        "popup": "Mecosta: Tug. Sank in 1922."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.819533,
+          41.518333
+        ]
+      },
+      "properties": {
+        "popup": "John B. Griffin: Schooner. Sank in 1892."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.810117,
+          41.534133
+        ]
+      },
+      "properties": {
+        "popup": "H. G. Cleveland: Tug. Sank in 1899."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.769183,
+          41.513
+        ]
+      },
+      "properties": {
+        "popup": "Tug - unknown 117th street: Tug. Sank date unknown."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.731883,
+          41.50555
+        ]
+      },
+      "properties": {
+        "popup": "Mabel Wilson: Schooner. Sank in 1906."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.729117,
+          41.5106
+        ]
+      },
+      "properties": {
+        "popup": "Fannie L. Jones: Schooner. Sank in 1890."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.72525,
+          41.51295
+        ]
+      },
+      "properties": {
+        "popup": "Charles H. Davis: Schooner. Sank in 1903."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.715667,
+          41.520367
+        ]
+      },
+      "properties": {
+        "popup": "Algeria: Barge. Sank in 1906."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.9033,
+          41.637383
+        ]
+      },
+      "properties": {
+        "popup": "Admiral: Freighter. Sank in 1942."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.843817,
+          41.688883
+        ]
+      },
+      "properties": {
+        "popup": "Dundee: Freighter. Sank in 1900."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.96085,
+          41.6938
+        ]
+      },
+      "properties": {
+        "popup": "Duke Luedtke: Tug. Sank in 1993."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.881983,
+          41.74085
+        ]
+      },
+      "properties": {
+        "popup": "Steven F. Gale: Schooner. Sank in 1876."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.0492,
+          41.924017
+        ]
+      },
+      "properties": {
+        "popup": "F.A. Meyer: Barge. Sank in 1909."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.9131,
+          41.9187
+        ]
+      },
+      "properties": {
+        "popup": "Valentine: Schooner. Sank in 1877."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.946433,
+          41.9037
+        ]
+      },
+      "properties": {
+        "popup": "Little Wissahickon: Schooner. Sank in 1896."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.953967,
+          41.95915
+        ]
+      },
+      "properties": {
+        "popup": "Frank E. Vigor: Freighter. Sank in 1944."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.070333,
+          42.003083
+        ]
+      },
+      "properties": {
+        "popup": "Steamer - unknown near Erieau: Steamer. Sank date unknown."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.071533,
+          42.251083
+        ]
+      },
+      "properties": {
+        "popup": "Colonial: Steamer. Sank in 1914."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.98235,
+          42.218333
+        ]
+      },
+      "properties": {
+        "popup": "Robert: Tug. Sank in 1982."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.905633,
+          42.256917
+        ]
+      },
+      "properties": {
+        "popup": "Schooner - unknown - Erieau: Schooner. Sank date unknown."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.889767,
+          42.251333
+        ]
+      },
+      "properties": {
+        "popup": "Lycoming: Freighter. Sank in 1910."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.8213,
+          42.374067
+        ]
+      },
+      "properties": {
+        "popup": "Phalarope: Schooner. Sank in 1872."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.632317,
+          42.139667
+        ]
+      },
+      "properties": {
+        "popup": "Schooner - three masted unknown: Three-masted schooner. Sank date unknown."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.738017,
+          42.089633
+        ]
+      },
+      "properties": {
+        "popup": "James B. Colgate: Steamer. Sank in 1916."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.6001,
+          41.791133
+        ]
+      },
+      "properties": {
+        "popup": "Cleveco: Tank barge. Sank in 1942."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.381467,
+          41.730167
+        ]
+      },
+      "properties": {
+        "popup": "North Carolina: Freighter. Sank in 1968."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.38555,
+          41.84615
+        ]
+      },
+      "properties": {
+        "popup": "Queen of the West: Steamer. Sank in 1903."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.05135,
+          41.840917
+        ]
+      },
+      "properties": {
+        "popup": "Charles B. Hill: Wooden wreck. Sank date unknown."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.3902,
+          42.151867
+        ]
+      },
+      "properties": {
+        "popup": "H. A. Barr: Steamer. Sank in 1902."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.346433,
+          42.232517
+        ]
+      },
+      "properties": {
+        "popup": "Merida: Freighter. Sank in 1916."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.358367,
+          42.42085
+        ]
+      },
+      "properties": {
+        "popup": "Dawn: Schooner. Sank in 1859."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.00515,
+          42.377483
+        ]
+      },
+      "properties": {
+        "popup": "Nimrod: Schooner. Sank in 1874."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.56255,
+          42.039583
+        ]
+      },
+      "properties": {
+        "popup": "John B. Lyon: Freighter. Sank date unknown."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.796167,
+          42.2695
+        ]
+      },
+      "properties": {
+        "popup": "James H. Reed: Freighter. Sank in 1944."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.674967,
+          42.32505
+        ]
+      },
+      "properties": {
+        "popup": "William Stevens: Freighter. Sank in 1902."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.693533,
+          42.4911
+        ]
+      },
+      "properties": {
+        "popup": "Barge (unnamed): Work barge. Sank in 1900."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.4185,
+          42.374483
+        ]
+      },
+      "properties": {
+        "popup": "Drill Rig: Offshore rig wreck. Sank date unknown."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.35385,
+          42.375433
+        ]
+      },
+      "properties": {
+        "popup": "Aycliffe Hall: Freighter. Sank in 1936."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.250067,
+          42.174067
+        ]
+      },
+      "properties": {
+        "popup": "Charles Foster: Schooner. Sank in 1900."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.17825,
+          42.128033
+        ]
+      },
+      "properties": {
+        "popup": "Philip D. Armour: Freighter. Sank in 1915."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.015,
+          42.172117
+        ]
+      },
+      "properties": {
+        "popup": "Canobie: Barge. Sank in 1921."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.93335,
+          42.24245
+        ]
+      },
+      "properties": {
+        "popup": "S. K. Martin: Steamer. Sank in 1912."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.9983,
+          42.293333
+        ]
+      },
+      "properties": {
+        "popup": "Indiana: Steamer. Sank in 1870."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.930983,
+          42.29035
+        ]
+      },
+      "properties": {
+        "popup": "Dean Richmond: Freighter. Sank in 1893."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.069217,
+          42.474567
+        ]
+      },
+      "properties": {
+        "popup": "Andrew B.: Tug & barge. Sank in 1995."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.275367,
+          42.45255
+        ]
+      },
+      "properties": {
+        "popup": "Crystal Wreck: Unidentified wreck. Sank date unknown."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.201,
+          42.419
+        ]
+      },
+      "properties": {
+        "popup": "Trade Wind: Schooner. Sank in 1854."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.122167,
+          42.451667
+        ]
+      },
+      "properties": {
+        "popup": "St. James: Schooner. Sank in 1870."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.039717,
+          42.505017
+        ]
+      },
+      "properties": {
+        "popup": "Stern Castle: Unidentified wreck. Sank date unknown."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.016983,
+          42.457883
+        ]
+      },
+      "properties": {
+        "popup": "Oneida: Steamer. Sank in 1852."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.9844,
+          42.474683
+        ]
+      },
+      "properties": {
+        "popup": "Smith: Tug. Sank in 1930."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.0848,
+          42.5103
+        ]
+      },
+      "properties": {
+        "popup": "Atlantic: Steamer. Sank in 1852."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.066167,
+          42.536333
+        ]
+      },
+      "properties": {
+        "popup": "C. W. Elphicke: Schooner. Sank in 1913."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.045139,
+          42.551667
+        ]
+      },
+      "properties": {
+        "popup": "Henry Clay: Schooner. Sank in 1861."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.369667,
+          42.635167
+        ]
+      },
+      "properties": {
+        "popup": "Ontario: Schooner. Sank in 1858."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.22825,
+          42.763
+        ]
+      },
+      "properties": {
+        "popup": "Cecil J.: Tug. Sank in 1943."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.118333,
+          42.576667
+        ]
+      },
+      "properties": {
+        "popup": "Siberia: Steamer. Sank in 1905."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.092633,
+          42.561083
+        ]
+      },
+      "properties": {
+        "popup": "Pascal P. Pratt: Schooner. Sank in 1908."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.052383,
+          42.6517
+        ]
+      },
+      "properties": {
+        "popup": "17-Fathom Wreck: Unidentified wreck. Sank date unknown."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.034417,
+          42.702517
+        ]
+      },
+      "properties": {
+        "popup": "Wilma: Freighter. Sank in 1936."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.09845,
+          42.627417
+        ]
+      },
+      "properties": {
+        "popup": "Brown Brothers: Tug. Sank in 1959."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.022333,
+          42.587067
+        ]
+      },
+      "properties": {
+        "popup": "T-8 schooner: Unidentified schooner. Sank date unknown."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.940883,
+          42.581667
+        ]
+      },
+      "properties": {
+        "popup": "Swallow: Schooner. Sank in 1901."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.925533,
+          42.543317
+        ]
+      },
+      "properties": {
+        "popup": "Sir C. T. Van Straubenzie: Steamer. Sank in 1909."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.911667,
+          42.563
+        ]
+      },
+      "properties": {
+        "popup": "Persian: Steamer. Sank in 1875."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.860833,
+          42.558167
+        ]
+      },
+      "properties": {
+        "popup": "Cracker Wreck: Unidentified wreck. Sank date unknown."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.864,
+          42.480867
+        ]
+      },
+      "properties": {
+        "popup": "Oxford: Schooner. Sank in 1856."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.717933,
+          42.286167
+        ]
+      },
+      "properties": {
+        "popup": "City of Rome: Steamer. Sank in 1914."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.74985,
+          42.426
+        ]
+      },
+      "properties": {
+        "popup": "George Whelan: Unidentified wreck. Sank date unknown."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.733333,
+          42.3799
+        ]
+      },
+      "properties": {
+        "popup": "John J. Boland: Freighter. Sank in 1932."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.60435,
+          42.738583
+        ]
+      },
+      "properties": {
+        "popup": "Niagara: Freighter. Sank in 1899."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.604167,
+          42.668117
+        ]
+      },
+      "properties": {
+        "popup": "George C. Finney: Schooner. Sank in 1891."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.608917,
+          42.418633
+        ]
+      },
+      "properties": {
+        "popup": "Betty Hedger: Freighter. Sank in 1937."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.343333,
+          42.851867
+        ]
+      },
+      "properties": {
+        "popup": "Marengo: Steamer. Sank in 1912."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.2435,
+          42.771
+        ]
+      },
+      "properties": {
+        "popup": "C B Benson: Schooner. Sank in 1893."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.2185,
+          42.8105
+        ]
+      },
+      "properties": {
+        "popup": "Dupuis #10: Work barge. Sank in 1997."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.1544,
+          42.864883
+        ]
+      },
+      "properties": {
+        "popup": "Raleigh: Steamer. Sank in 1911."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.100167,
+          42.832167
+        ]
+      },
+      "properties": {
+        "popup": "Briton: Freighter. Sank in 1929."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.007667,
+          42.838
+        ]
+      },
+      "properties": {
+        "popup": "O. W. Cheney: Steamer. Sank in 1903."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.406389,
+          35.001667
+        ]
+      },
+      "properties": {
+        "popup": "USS Monitor: Ironclad warship. Sank in 1862."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.713333,
+          49.49
+        ]
+      },
+      "properties": {
+        "popup": "USS Susan B Anthony (AP-72): Troop transport. Sank in 1944."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.516083,
+          37.781594
+        ]
+      },
+      "properties": {
+        "popup": "SS Ohioan: Cargo ship. Sank in 1936."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.605556,
+          49.765833
+        ]
+      },
+      "properties": {
+        "popup": "SS L\u00e9opoldville: Troopship. Sank in 1944."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.5356,
+          18.3687
+        ]
+      },
+      "properties": {
+        "popup": "RMS Rhone: Packet steamer. Sank in 1867."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.635778,
+          34.619278
+        ]
+      },
+      "properties": {
+        "popup": "SS Harvard: Coastal liner. Sank in 1931."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.353601,
+          -22.241028
+        ]
+      },
+      "properties": {
+        "popup": "MFV Zeila (L758): Fishing trawler. Sank in 2008."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.457483,
+          -23.995889
+        ]
+      },
+      "properties": {
+        "popup": "Eduard Bohlen: Cargo ship. Sank in 1909."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.816663,
+          50.916663
+        ]
+      },
+      "properties": {
+        "popup": "HMHS Rewa: Hospital ship. Sank in 1918."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.049999,
+          51.116666
+        ]
+      },
+      "properties": {
+        "popup": "HMHS Glenart Castle: Hospital ship. Sank in 1918."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.997778,
+          36.290833
+        ]
+      },
+      "properties": {
+        "popup": "USS Macon (ZRS-5): Rigid airship wreck. Sank in 1935."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.685844,
+          40.537703
+        ]
+      },
+      "properties": {
+        "popup": "SS Iberia: Passenger/cargo steamer. Sank in 1888."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -10.651156,
+          49.521102
+        ]
+      },
+      "properties": {
+        "popup": "RMS Carpathia: Ocean liner. Sank in 1918."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.550586,
+          37.781263
+        ]
+      },
+      "properties": {
+        "popup": "USS Benevolence (AH-13): Hospital ship. Sank in 1950."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.508476,
+          37.786639
+        ]
+      },
+      "properties": {
+        "popup": "TV Lyman Stewart: Tanker. Sank in 1922."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.511036,
+          37.785229
+        ]
+      },
+      "properties": {
+        "popup": "TV Frank H Buck: Tanker. Sank in 1937."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.53025,
+          37.816594
+        ]
+      },
+      "properties": {
+        "popup": "SS City of New York: Passenger liner. Sank in 1893."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -157.95001,
+          21.36488
+        ]
+      },
+      "properties": {
+        "popup": "USS Arizona (BB-39): Battleship. Sank in 1941."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.466667,
+          37.813889
+        ]
+      },
+      "properties": {
+        "popup": "SS City of Chester: Passenger steamer. Sank in 1888."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.620694,
+          46.254028
+        ]
+      },
+      "properties": {
+        "popup": "SS Arctic: Side-wheel steamer. Sank in 1854."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.85,
+          40.491667
+        ]
+      },
+      "properties": {
+        "popup": "SS Andrea Doria: Ocean liner. Sank in 1956."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.733556,
+          44.441796
+        ]
+      },
+      "properties": {
+        "popup": "RMS Atlantic: Ocean liner. Sank in 1873."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.916806,
+          42.928167
+        ]
+      },
+      "properties": {
+        "popup": "SS La Bourgogne: Ocean liner. Sank in 1898."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.639028,
+          34.608778
+        ]
+      },
+      "properties": {
+        "popup": "SS Santa Rosa: Passenger steamer. Sank in 1911."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.256355,
+          43.888481
+        ]
+      },
+      "properties": {
+        "popup": "SS Polias: Concrete steamer. Sank in 1920."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.7,
+          28.666667
+        ]
+      },
+      "properties": {
+        "popup": "SS Robert E. Lee: Passenger steamer. Sank in 1942."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.35,
+          41.475
+        ]
+      },
+      "properties": {
+        "popup": "SS Cape Fear: Cargo steamer. Sank in 1920."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.972021,
+          38.944335
+        ]
+      },
+      "properties": {
+        "popup": "SS Atlantus: Concrete ship. Sank in 1926."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.580437,
+          36.865563
+        ]
+      },
+      "properties": {
+        "popup": "PS Charles H Spencer: Paddle steamer. Sank in 1921."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.700461,
+          28.692607
+        ]
+      },
+      "properties": {
+        "popup": "U-166: German submarine. Sank in 1942."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.78628,
+          29.344255
+        ]
+      },
+      "properties": {
+        "popup": "SS Selma: Concrete tanker. Sank in 1920."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.293414,
+          25.6505
+        ]
+      },
+      "properties": {
+        "popup": "SS Sapona: Concrete cargo ship. Sank in 1926."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.914004,
+          36.96961
+        ]
+      },
+      "properties": {
+        "popup": "SS Palo Alto: Concrete tanker. Sank in 1929."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.786467,
+          51.465794
+        ]
+      },
+      "properties": {
+        "popup": "SS Richard Montgomery: Liberty ship (munitions). Sank in 1944."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.173038,
+          32.674021
+        ]
+      },
+      "properties": {
+        "popup": "SS Monte Carlo: Concrete gambling ship. Sank in 1937."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.287325,
+          38.166681
+        ]
+      },
+      "properties": {
+        "popup": "USS Corry (DD-334): Destroyer (scrapped hull). Sank in 1930."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.032,
+          -52.2477
+        ]
+      },
+      "properties": {
+        "popup": "PS Olympian: Side-wheel steamer. Sank in 1906."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.007886,
+          40.5501
+        ]
+      },
+      "properties": {
+        "popup": "USS San Diego (CA-6): Armored cruiser. Sank in 1918."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.547853,
+          51.412392
+        ]
+      },
+      "properties": {
+        "popup": "RMS Lusitania: Ocean liner. Sank in 1915."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.283889,
+          37.701389
+        ]
+      },
+      "properties": {
+        "popup": "HMHS Britannic: Hospital ship. Sank in 1916."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.1,
+          25.9167
+        ]
+      },
+      "properties": {
+        "popup": "SS Yarmouth Castle: Passenger cruise ship. Sank in 1965."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.42,
+          47.592
+        ]
+      },
+      "properties": {
+        "popup": "SS Dix: Passenger steamer. Sank in 1906."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.489044,
+          37.813328
+        ]
+      },
+      "properties": {
+        "popup": "SS City of Rio de Janeiro: Passenger steamer. Sank in 1901."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.929211,
+          48.268278
+        ]
+      },
+      "properties": {
+        "popup": "SS Clallam: Passenger steamer. Sank in 1904."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -125.001361,
+          48.383117
+        ]
+      },
+      "properties": {
+        "popup": "SS Pacific: Passenger steamer. Sank in 1875."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.417753,
+          37.183278
+        ]
+      },
+      "properties": {
+        "popup": "SS San Juan: Passenger steamer. Sank in 1929."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -125.005833,
+          48.705556
+        ]
+      },
+      "properties": {
+        "popup": "SS Valencia: Passenger steamer. Sank in 1906."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.408333,
+          48.625
+        ]
+      },
+      "properties": {
+        "popup": "RMS Empress of Ireland: Ocean liner. Sank in 1914."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.855167,
+          40.5302
+        ]
+      },
+      "properties": {
+        "popup": "SS Oregon: Ocean liner. Sank in 1886."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.633333,
+          40.65
+        ]
+      },
+      "properties": {
+        "popup": "TWA Flight 800: Boeing 747 wreck. Sank in 1996."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.949444,
+          41.731183
+        ]
+      },
+      "properties": {
+        "popup": "RMS Titanic: Ocean liner. Sank in 1912."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.183961,
+          39.958175
+        ]
+      },
+      "properties": {
+        "popup": "SS Columbia: Passenger steamer. Sank in 1907."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.713531,
+          42.807258
+        ]
+      },
+      "properties": {
+        "popup": "Frontenac: Steamer. Sank in 1907."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.6927,
+          43.4402
+        ]
+      },
+      "properties": {
+        "popup": "Land Tortoise: Military radeau. Sank in 1758."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.894883,
+          43.228433
+        ]
+      },
+      "properties": {
+        "popup": "Cleveland Barge: Work barge. Sank date unknown."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.92555,
+          43.207083
+        ]
+      },
+      "properties": {
+        "popup": "Shackelton Barge: Work barge. Sank date unknown."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.05575,
+          43.2298
+        ]
+      },
+      "properties": {
+        "popup": "Sand Barge: Work barge. Sank date unknown."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.043233,
+          43.21845
+        ]
+      },
+      "properties": {
+        "popup": "Egan Sisters Newspaper Barge: Work barge. Sank date unknown."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.885867,
+          43.20635
+        ]
+      },
+      "properties": {
+        "popup": "Apps #2 Barge: Work barge. Sank date unknown."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.855917,
+          43.20355
+        ]
+      },
+      "properties": {
+        "popup": "Thomas H \u2013 Barge #2: Work barge. Sank in 1945."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.8548,
+          43.204917
+        ]
+      },
+      "properties": {
+        "popup": "Thomas H \u2013 Barge #1: Work barge. Sank in 1945."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.852717,
+          43.2042
+        ]
+      },
+      "properties": {
+        "popup": "Tug Thomas H: Tugboat. Sank in 1945."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.925333,
+          43.207333
+        ]
+      },
+      "properties": {
+        "popup": "Oneida Lake sunken barge: Work barge. Sank date unknown."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.985517,
+          43.21185
+        ]
+      },
+      "properties": {
+        "popup": "Tug Elsie K (wreck debris): Tugboat. Sank date unknown."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.476767,
+          42.6545
+        ]
+      },
+      "properties": {
+        "popup": "Carlingford: Schooner. Sank in 1881."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4531,
+          42.537167
+        ]
+      },
+      "properties": {
+        "popup": "Schooner C: Schooner. Sank date unknown."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4975,
+          42.610067
+        ]
+      },
+      "properties": {
+        "popup": "Acme (propeller): Freighter. Sank in 1867."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.451833,
+          42.418833
+        ]
+      },
+      "properties": {
+        "popup": "Manzanilla: Schooner. Sank in 1887."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.460667,
+          42.5395
+        ]
+      },
+      "properties": {
+        "popup": "Washington Irving: Schooner. Sank in 1860."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.462833,
+          42.479
+        ]
+      },
+      "properties": {
+        "popup": "Passaic: Propeller steamer. Sank in 1891."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.351967,
+          42.498583
+        ]
+      },
+      "properties": {
+        "popup": "Annabell Wilson: Schooner. Sank in 1913."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4091,
+          42.591083
+        ]
+      },
+      "properties": {
+        "popup": "Brunswick: Propeller steamer. Sank in 1881."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.396033,
+          42.668
+        ]
+      },
+      "properties": {
+        "popup": "J G McGrath: Schooner. Sank in 1878."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.901667,
+          42.873867
+        ]
+      },
+      "properties": {
+        "popup": "Barge 43: Work barge. Sank in 1961."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.912,
+          42.873267
+        ]
+      },
+      "properties": {
+        "popup": "Alabama: Side-wheel steamer. Sank in 1854."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.912933,
+          42.851217
+        ]
+      },
+      "properties": {
+        "popup": "W C Richardson: Freighter. Sank in 1909."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.964,
+          42.845
+        ]
+      },
+      "properties": {
+        "popup": "Acme (tug): Tugboat. Sank in 1902."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.983583,
+          42.849083
+        ]
+      },
+      "properties": {
+        "popup": "Finch: Barge. Sank in 1883."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.983333,
+          42.8455
+        ]
+      },
+      "properties": {
+        "popup": "Tonawanda: Propeller steamer. Sank in 1870."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.142667,
+          42.629333
+        ]
+      },
+      "properties": {
+        "popup": "Bishops Derirck: Barge. Sank in 1853."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.898833,
+          42.890333
+        ]
+      },
+      "properties": {
+        "popup": "US 104: Work barge. Sank in 1921."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.680278,
+          43.452778
+        ]
+      },
+      "properties": {
+        "popup": "Forward: 1911 motor launch. Sank date unknown."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.376333,
+          44.206
+        ]
+      },
+      "properties": {
+        "popup": "Champlain: Side-wheel steamer. Sank in 1875."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.335167,
+          44.549667
+        ]
+      },
+      "properties": {
+        "popup": "Phoenix: Side-wheel steamer. Sank in 1819."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.3082,
+          44.313
+        ]
+      },
+      "properties": {
+        "popup": "Sloop Island canal boat: Canal boat. Sank date unknown."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.334,
+          44.235
+        ]
+      },
+      "properties": {
+        "popup": "Stone canal boat: Canal boat. Sank date unknown."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.246,
+          44.454333
+        ]
+      },
+      "properties": {
+        "popup": "A R Noyes: Canal boat. Sank in 1884."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.240667,
+          44.478667
+        ]
+      },
+      "properties": {
+        "popup": "O J Walker: Schooner-barge. Sank in 1895."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.228333,
+          44.4705
+        ]
+      },
+      "properties": {
+        "popup": "General Butler: Canal schooner. Sank in 1876."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.334667,
+          44.233333
+        ]
+      },
+      "properties": {
+        "popup": "Water Witch: Passenger schooner. Sank in 1866."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.243,
+          44.485333
+        ]
+      },
+      "properties": {
+        "popup": "Horse Powered Ferry Boat: Turntable ferry. Sank date unknown."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.066,
+          44.2582
+        ]
+      },
+      "properties": {
+        "popup": "North Colborne Island barge: Work barge. Sank date unknown."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.080833,
+          44.243833
+        ]
+      },
+      "properties": {
+        "popup": "Elk: Schooner. Sank in 1860."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.104,
+          44.24925
+        ]
+      },
+      "properties": {
+        "popup": "Grand View: Steamer. Sank in 1906."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.186,
+          44.24
+        ]
+      },
+      "properties": {
+        "popup": "WHG: Speed boat. Sank in 1912."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.348767,
+          44.150317
+        ]
+      },
+      "properties": {
+        "popup": "Lewiston: Steamer. Sank date unknown."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.848783,
+          44.415967
+        ]
+      },
+      "properties": {
+        "popup": "Grenadier Island sailing ships: Sailing-ship wrecks. Sank date unknown."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.887283,
+          44.394583
+        ]
+      },
+      "properties": {
+        "popup": "Clara White: Schooner. Sank in 1889."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.912967,
+          44.348733
+        ]
+      },
+      "properties": {
+        "popup": "Catherine: Yacht. Sank in 1890."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.9202,
+          44.375183
+        ]
+      },
+      "properties": {
+        "popup": "Air Boat: Experimental air-boat. Sank in 1930."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.004333,
+          44.287017
+        ]
+      },
+      "properties": {
+        "popup": "Steam Launch: Steam launch. Sank date unknown."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.725833,
+          44.553056
+        ]
+      },
+      "properties": {
+        "popup": "Sam Cooke: Schooner. Sank in 1882."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.71155,
+          44.56245
+        ]
+      },
+      "properties": {
+        "popup": "John B King: Drill scow. Sank in 1930."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.677083,
+          44.589317
+        ]
+      },
+      "properties": {
+        "popup": "Robert Gaskin: Barque. Sank in 1889."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.653317,
+          44.6048
+        ]
+      },
+      "properties": {
+        "popup": "Muscallonge: Tug. Sank in 1936."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.527778,
+          44.699444
+        ]
+      },
+      "properties": {
+        "popup": "Rothesay: Paddle-wheeler. Sank in 1889."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.4763,
+          44.71645
+        ]
+      },
+      "properties": {
+        "popup": "Fleur Marie: Brigantine. Sank in 1884."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.393333,
+          44.779444
+        ]
+      },
+      "properties": {
+        "popup": "Conestoga: Freighter. Sank in 1922."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.101167,
+          44.924667
+        ]
+      },
+      "properties": {
+        "popup": "Eastcliffe Hall: Bulk carrier. Sank in 1970."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.061944,
+          44.934167
+        ]
+      },
+      "properties": {
+        "popup": "Chippewa: Propeller steamer. Sank in 1920."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.621917,
+          45.034167
+        ]
+      },
+      "properties": {
+        "popup": "Fred Mercur: Propeller steamer. Sank in 1925."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.320667,
+          44.1335
+        ]
+      },
+      "properties": {
+        "popup": "St Louis: Schooner. Sank in 1914."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.369833,
+          44.145483
+        ]
+      },
+      "properties": {
+        "popup": "Harvey J Kendall: Freighter. Sank in 1917."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.2772,
+          44.236533
+        ]
+      },
+      "properties": {
+        "popup": "Holiday Point Wreck: Sailing ship wreck. Sank date unknown."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.20195,
+          44.233
+        ]
+      },
+      "properties": {
+        "popup": "Julia: Schooner. Sank in 1895."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.096833,
+          44.245167
+        ]
+      },
+      "properties": {
+        "popup": "Maggie L: Schooner. Sank in 1927."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.071833,
+          44.249
+        ]
+      },
+      "properties": {
+        "popup": "Dauntless: Yacht. Sank date unknown."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.046467,
+          44.259033
+        ]
+      },
+      "properties": {
+        "popup": "Raymond: Yacht. Sank date unknown."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.383667,
+          44.122833
+        ]
+      },
+      "properties": {
+        "popup": "Arizona: Steamer. Sank in 1922."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.018967,
+          44.280233
+        ]
+      },
+      "properties": {
+        "popup": "A E Vickery: Schooner. Sank in 1889."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.015883,
+          44.283467
+        ]
+      },
+      "properties": {
+        "popup": "Oconto: Steamer. Sank in 1886."
+      }
+    }
+  ]
+}
