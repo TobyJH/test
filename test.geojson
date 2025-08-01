@@ -1,0 +1,12 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [ 1.77, 52.88 ] },
+      "properties": {
+        "popup": "Georgia: An oil tanker that ran aground on Haisborough Sands. Sunk on 20 Nov 1927."
+      }
+    }
+  ]
+}
